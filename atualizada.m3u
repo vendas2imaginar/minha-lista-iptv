@@ -1,139 +1,495 @@
-#EXTM3U
-#EXTINF:0,#EXTM3U
-#EXTINF:-1 tvg-shift=0 tvg-name= "ACS-NETWORK" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" ,ACS-NETWORK
-#EXTINF:0,http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "TBS" tvg-logo="https://vignette3.wikia.nocookie.net/cougartown/images/c/cd/TBS.png/revision/latest?cb=20130810130932", TBS
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "TCM" tvg-logo="http://www.lamac.org/res/channels/logos/_0003_tcm.png", TCM
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TCM)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_PLUS_HD tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png", HBO_PLUS_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_FAMILY_HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png", HBO_FAMILY_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_SIGNATURE_HD" tvg-logo="http://www.ushuaiavision.com.ar/images/canales/HBO_Signature_HD.png", HBO_SIGNATURE_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "DEPELICULA" tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg", DEPELICULA
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "GOLDEN_HD" tvg-logo="https://imgur.com/QaUMABB.png", GOLDEN_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "CINELATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png", CINELATINO
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "CINEMAX" tvg-logo="http://foromedios.com/uploads/gallery/category_7/gallery_8863_7_22580.png", CINEMAX
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_hd_latinoamerica.png", TNT_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "TNT_SERIES_HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/tnt_series.png", TNT_SERIES_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "WARNER_HD" tvg-logo="http://y.cdn.entutele.com/media/channels/big/warner-hd.gif", WARNER_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "SONY_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/sony-hd.gif", SONY_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-hd.gif", FOX_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX1_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox.gif", FOX1_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOXMOVIES_HD" tvg-logo="http://y.cdn.entutele.com/media/channels/medium/fox-movies-hd.gif", FOXMOVIES_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_ACTION" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-action-hd.gif", FOX_ACTION
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CINEMA_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-cinema.gif", FOX_CINEMA_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_CLASSICS_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/fox-classics.gif", FOX_CLASSICS_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "SPACE_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/space-hd.gif", SPACE_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "STUDIO_UNIVERSAL" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/studio-universal.gif", STUDIO_UNIVERSAL
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(STUDIO_UNIVERSAL)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "UNIVERSAL_CHANNEL_HD" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/universal-channel.gif", UNIVERSAL_CHANNEL_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "THE_FILM_ZONE_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/The_Film_Zone_logo.PNG", THE_FILM_ZONE_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://seeklogo.com/images/H/h2-tv-logo-CCC836E2F8-seeklogo.com.png", H2
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "NATGEO" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/natgeo.gif", NATGEO
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "LIFETIME" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/lifetime.gif", LIFETIME
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "TLC" tvg-logo="http://x.cdn.entutele.com/media/channels/medium/tlc.gif", TLC
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "AE" tvg-logo="http://z.cdn.entutele.com/media/channels/medium/ae-hd.gif", AE
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8 
-#EXTINF:-1 tvg-shift=0 tvg-name= "AXN_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png", AXN_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "MAX_PRIME_HD" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/max-prime-500x500-819152713.png", MAX_PRIME_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "MAX_PRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png", MAX_PRIME
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "MAX_UP_HD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_07/canalmax-uphd.png.38b51b86ccf54e3f8607afe736255daf.png", MAX_UP_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(02)/index.m3u8 
-#EXTINF:-1 tvg-shift=0 tvg-name= "DISCOVERY_CHANNEL_HD" tvg-logo="https://www.tutvplay.com/img/ch/Discovery-Channel-HD.png", DISCOVERY_CHANNEL_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "NATGEO_KIDS_HD" tvg-logo="http://www.todotvnews.com/ttvnews/2017/05/resize1_NGKidsAssets.ai-01.png", NATGEO_KIDS_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "BOOMERANG" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest?cb=20150214053855http://vignette1.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest?cb=20150214053855", BOOMERANG
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "CARTOON_NETWORK_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png", CARTOON_NETWORK_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "DISNEY_JR" tvg-logo="https://imgur.com/EKvqypE.png", DISNEY_JR
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "TOONCAST" tvg-logo="http://i.imgur.com/GgSSmqL.jpg", TOONCAST
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "DISNEY_XD" tvg-logo="https://imgur.com/eGBe5vi.png",DISNEY_XD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "CARTOON_NETWORK_HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png", CARTOON_NETWORK_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "ANIMAL_PLANET_HD" tvg-logo="http://www.lamac.org/res/channels/logos/_0042_animal_planet.png", ANIMAL_PLANET_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "H2" tvg-logo="https://seeklogo.com/images/H/h2-tv-logo-CCC836E2F8-seeklogo.com.png", H2
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "DISCOVERY_CHANNEL_HD" tvg-logo="https://www.tutvplay.com/img/ch/Discovery-Channel-HD.png", DISCOVERY_CHANNEL_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "ECUAVISA" tvg-logo="http://www.iptvroku.com/logos/Ecuavisa.jpg", ECUAVISA
-#EXTINF:0,http://elcanaldelfutbol.com/static/wowza/test/hls/20001/360p/playlist.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "ESPN" tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/76sky-logo-ESPN.jpg", ESPN
-#EXTINF:0,http://www.iptvmexico.xyz/408.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "ESPN2" tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/111sky-logo-ESPN2.jpg", ESPN2
-#EXTINF:0,http://www.iptvmexico.xyz/2010.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "ESPN3" tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/82sky-logo-Espn3.jpg", ESPN3
-#EXTINF:0,http://www.iptvmexico.xyz/2011.m3u8
-#EXTINF:-1tvg-shift=0 tvg-name= "FOX_SPORT_HD,tvg-logo="http://i.imgur.com/qXuM4hT.png", FOX_SPORT_HD
-#EXTINF:0,http://www.iptvmexico.xyz/57.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "LOS_SIMPSON,tvg-logo="http://iptvmexico.xyz/logos/png/2035.png", LOS_SIMPSON
-#EXTINF:0,http://www.iptvmexico.xyz/2035.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "RETRO_CARTOON,tvg-logo="http://iptvmexico.xyz/logos/png/2039.png", RETRO_CARTONN
-#EXTINF:0,http://www.iptvmexico.xyz/2039.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "CLARO_CINEMA,tvg-logo="http://iptvmexico.xyz/logos/png/2049.png", CLARO_CINEMA
-#EXTINF:0,http://www.iptvmexico.xyz/2049.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "PARAMOUNT_CHANNEL" tvg-logo="http://iptvmexico.xyz/logos/png/2016.png", PARAMOUNT_CHANNEL
-#EXTINF:0,http://www.iptvmexico.xyz/2016.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FX" tvg-logo="http://iptvmexico.xyz/logos/png/115.png", FX
-#EXTINF:0,http://www.iptvmexico.xyz/115.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "INVESTIGATION_DISCOVERY" tvg-logo="http://iptvmexico.xyz/logos/png/2051.png", INVESTIGATION_DISCOVERY
-#EXTINF:0,http://www.iptvmexico.xyz/2051.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "HBO_2_HD" tvg-logo="http://iptvmexico.xyz/logos/png/2043.png", HBO_2 PLUS
-#EXTINF:0,http://www.iptvmexico.xyz/2043.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "DISCOVERY_WORLD_LATINOAMERICA" tvg-logo="http://iptvmexico.xyz/logos/png/368.png", DISCOVERY_WORLD_LATINOAMERICA
-#EXTINF:0,http://www.iptvmexico.xyz/368.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "ANIMAL_PLANET_HD" tvg-logo="http://iptvmexico.xyz/logos/png/114.png", ANIMAL_PLANET_HD
-#EXTINF:0,http://www.iptvmexico.xyz/114.m3u8
-#EXTINF:-1 tvg-shift=0 tvg-name= "FOX_SPORT_2_HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/8e/Fox_Sports_2.png/revision/20160413221614", FOX_SPORT_2_HD
-#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
-@tutv-xd
-tutv-xd
-commented
-on Aug 3, 2020
-Porq estos links ya no anda mas falta actualizar
+#EXTINF:-1 group-title="Temporários",Globo SP
+http://192.99.148.73:8080/live/play/play/2.ts
+#EXTINF:-1,Globo RJ
+http://192.99.148.73:8080/live/play/play/567.ts
+#EXTINF:-1,Globo RJ HD
+http://192.99.148.73:8080/live/play/play/599.ts
+#EXTINF:-1,RBS TV Porto Alegre
+http://192.99.148.73:8080/live/play/play/576.ts
+#EXTINF:-1,TV Tem Bauru
+http://192.99.148.73:8080/live/play/play/858.ts
+#EXTINF:-1,TV Tem Sorocaba
+http://192.99.148.73:8080/live/play/play/859.ts
+#EXTINF:-1,Record
+http://192.99.148.73:8080/live/play/play/6.ts
+#EXTINF:-1,Record HD
+http://192.99.148.73:8080/live/play/play/422.ts
+#EXTINF:-1,SBT
+http://192.99.148.73:8080/live/play/play/3.ts
+#EXTINF:-1,SBT HD
+http://192.99.148.73:8080/live/play/play/594.ts
+#EXTINF:-1,Band
+http://192.99.148.73:8080/live/play/play/5.ts
+#EXTINF:-1,Band HD
+http://192.99.148.73:8080/live/play/play/592.ts
+#EXTINF:-1,RedeTV!
+http://192.99.148.73:8080/live/play/play/4.ts
+#EXTINF:-1,RedeTV! HD
+http://192.99.148.73:8080/live/play/play/604.ts
+#EXTINF:-1,Rede Brasil
+http://192.99.148.73:8080/live/play/play/577.ts
+#EXTINF:-1,Rede Vida
+http://192.99.148.73:8080/live/play/play/578.ts
+#EXTINF:-1,Terra Viva
+http://192.99.148.73:8080/live/play/play/582.ts
+#EXTINF:-1,Canal Rural
+http://192.99.148.73:8080/live/play/play/598.ts
+#EXTINF:-1,Canal Futura
+http://192.99.148.73:8080/live/play/play/7.ts
+#EXTINF:-1,TV Cultura
+http://192.99.148.73:8080/live/play/play/1.ts
+#EXTINF:-1,Telecine Action
+http://192.99.148.73:8080/live/play/play/9.ts
+#EXTINF:-1,Telecine Action HD
+http://192.99.148.73:8080/live/play/play/193.ts
+#EXTINF:-1,Telecine Premium
+http://192.99.148.73:8080/live/play/play/8.ts
+#EXTINF:-1,Telecine Premium HD
+http://192.99.148.73:8080/live/play/play/190.ts
+#EXTINF:-1,Telecine Touch
+http://192.99.148.73:8080/live/play/play/12.ts
+#EXTINF:-1,Telecine Touch HD
+http://192.99.148.73:8080/live/play/play/189.ts
+#EXTINF:-1,Telecine Fun
+http://192.99.148.73:8080/live/play/play/10.ts
+#EXTINF:-1,Telecine Fun HD
+http://192.99.148.73:8080/live/play/play/192.ts
+#EXTINF:-1,Telecine Pipoca
+http://192.99.148.73:8080/live/play/play/11.ts
+#EXTINF:-1,Telecine Pipoca HD
+http://192.99.148.73:8080/live/play/play/191.ts
+#EXTINF:-1,Telecine Cult
+http://192.99.148.73:8080/live/play/play/13.ts
+#EXTINF:-1,Telecine Cult HD
+http://192.99.148.73:8080/live/play/play/241.ts
+#EXTINF:-1,HBO
+http://192.99.148.73:8080/live/play/play/14.ts
+#EXTINF:-1,HBO HD
+http://192.99.148.73:8080/live/play/play/198.ts
+#EXTINF:-1,HBO 2
+http://192.99.148.73:8080/live/play/play/15.ts
+#EXTINF:-1,HBO 2 HD
+http://192.99.148.73:8080/live/play/play/182.ts
+#EXTINF:-1,HBO Plus
+http://192.99.148.73:8080/live/play/play/18.ts
+#EXTINF:-1,HBO Plus HD
+http://192.99.148.73:8080/live/play/play/197.ts
+#EXTINF:-1,HBO Signature
+http://192.99.148.73:8080/live/play/play/16.ts
+#EXTINF:-1,HBO Signature HD
+http://192.99.148.73:8080/live/play/play/196.ts
+#EXTINF:-1,HBO Family
+http://192.99.148.73:8080/live/play/play/17.ts
+#EXTINF:-1,HBO Family HD
+http://192.99.148.73:8080/live/play/play/172.ts
+#EXTINF:-1,Universal
+http://192.99.148.73:8080/live/play/play/22.ts
+#EXTINF:-1,Universal Channel HD
+http://192.99.148.73:8080/live/play/play/222.ts
+#EXTINF:-1,Mais GloboSat
+http://192.99.148.73:8080/live/play/play/108.ts
+#EXTINF:-1,Mais Globosat HD
+http://192.99.148.73:8080/live/play/play/206.ts
+#EXTINF:-1,TNT
+http://192.99.148.73:8080/live/play/play/30.ts
+#EXTINF:-1,TNT HD
+http://192.99.148.73:8080/live/play/play/188.ts
+#EXTINF:-1,TNT Séries
+http://192.99.148.73:8080/live/play/play/101.ts
+#EXTINF:-1,TNT Séries HD
+http://192.99.148.73:8080/live/play/play/223.ts
+#EXTINF:-1,TCM
+http://192.99.148.73:8080/live/play/play/35.ts
+#EXTINF:-1,Studio Universal
+http://192.99.148.73:8080/live/play/play/32.ts
+#EXTINF:-1,Max Prime
+http://192.99.148.73:8080/live/play/play/24.ts
+#EXTINF:-1,Max
+http://192.99.148.73:8080/live/play/play/23.ts
+#EXTINF:-1,Max HD
+http://192.99.148.73:8080/live/play/play/185.ts
+#EXTINF:-1,TBS
+http://192.99.148.73:8080/live/play/play/33.ts
+#EXTINF:-1,Warner
+http://192.99.148.73:8080/live/play/play/26.ts
+#EXTINF:-1,Warner HD
+http://192.99.148.73:8080/live/play/play/178.ts
+#EXTINF:-1,Paramount Channel
+http://192.99.148.73:8080/live/play/play/34.ts
+#EXTINF:-1,Fox
+http://192.99.148.73:8080/live/play/play/20.ts
+#EXTINF:-1,FOX HD
+http://192.99.148.73:8080/live/play/play/202.ts
+#EXTINF:-1,FOX 1 HD
+http://192.99.148.73:8080/live/play/play/228.ts
+#EXTINF:-1,Paramount Channel HD
+http://192.99.148.73:8080/live/play/play/171.ts
+#EXTINF:-1,Space
+http://192.99.148.73:8080/live/play/play/21.ts
+#EXTINF:-1,Space HD
+http://192.99.148.73:8080/live/play/play/194.ts
+#EXTINF:-1,Sony
+http://192.99.148.73:8080/live/play/play/28.ts
+#EXTINF:-1,Canal Sony HD
+http://192.99.148.73:8080/live/play/play/209.ts
+#EXTINF:-1,Megapix
+http://192.99.148.73:8080/live/play/play/19.ts
+#EXTINF:-1,TLC
+http://192.99.148.73:8080/live/play/play/44.ts
+#EXTINF:-1,TLC HD
+http://192.99.148.73:8080/live/play/play/205.ts
+#EXTINF:-1,Megapix HD
+http://192.99.148.73:8080/live/play/play/225.ts
+#EXTINF:-1,FX
+http://192.99.148.73:8080/live/play/play/27.ts
+#EXTINF:-1,FX HD
+http://192.99.148.73:8080/live/play/play/177.ts
+#EXTINF:-1,AXN
+http://192.99.148.73:8080/live/play/play/29.ts
+#EXTINF:-1,AXN HD
+http://192.99.148.73:8080/live/play/play/211.ts
+#EXTINF:-1,Max Up
+http://192.99.148.73:8080/live/play/play/25.ts
+#EXTINF:-1,Cinemax
+http://192.99.148.73:8080/live/play/play/31.ts
+#EXTINF:-1,Cinemax HD
+http://192.99.148.73:8080/live/play/play/187.ts
+#EXTINF:-1,A&E
+http://192.99.148.73:8080/live/play/play/41.ts
+#EXTINF:-1,A&E HD
+http://192.99.148.73:8080/live/play/play/176.ts
+#EXTINF:-1,I sat
+http://192.99.148.73:8080/live/play/play/109.ts
+#EXTINF:-1,SporTV
+http://192.99.148.73:8080/live/play/play/55.ts
+#EXTINF:-1,Sportv HD
+http://192.99.148.73:8080/live/play/play/242.ts
+#EXTINF:-1,SporTV 2
+http://192.99.148.73:8080/live/play/play/56.ts
+#EXTINF:-1,Sportv 2 HD
+http://192.99.148.73:8080/live/play/play/244.ts
+#EXTINF:-1,SporTV 3
+http://192.99.148.73:8080/live/play/play/57.ts
+#EXTINF:-1,Sportv 3 HD
+http://192.99.148.73:8080/live/play/play/243.ts
+#EXTINF:-1,Fox Sports
+http://192.99.148.73:8080/live/play/play/63.ts
+#EXTINF:-1,Fox Sports HD
+http://192.99.148.73:8080/live/play/play/200.ts
+#EXTINF:-1,Fox Sports 2
+http://192.99.148.73:8080/live/play/play/64.ts
+#EXTINF:-1,Fox Sports 2 HD
+http://192.99.148.73:8080/live/play/play/201.ts
+#EXTINF:-1,ESPN
+http://192.99.148.73:8080/live/play/play/59.ts
+#EXTINF:-1,ESPN HD
+http://192.99.148.73:8080/live/play/play/169.ts
+#EXTINF:-1,ESPN+
+http://192.99.148.73:8080/live/play/play/60.ts
+#EXTINF:-1,ESPN+HD
+http://192.99.148.73:8080/live/play/play/183.ts
+#EXTINF:-1,ESPN Brasil
+http://192.99.148.73:8080/live/play/play/61.ts
+#EXTINF:-1,ESPN Brasil HD
+http://192.99.148.73:8080/live/play/play/203.ts
+#EXTINF:-1,Ei Maxx
+http://192.99.148.73:8080/live/play/play/65.ts
+#EXTINF:-1,Ei Maxx 2
+http://192.99.148.73:8080/live/play/play/66.ts
+#EXTINF:-1,EI Maxx 2 HD
+http://192.99.148.73:8080/live/play/play/204.ts
+#EXTINF:-1,EI Maxx HD
+http://192.99.148.73:8080/live/play/play/229.ts
+#EXTINF:-1,Band Sports
+http://192.99.148.73:8080/live/play/play/58.ts
+#EXTINF:-1,Band Sports HD
+http://192.99.148.73:8080/live/play/play/184.ts
+#EXTINF:-1,Esporte Interativo
+http://192.99.148.73:8080/live/play/play/67.ts
+#EXTINF:-1,Combate
+http://192.99.148.73:8080/live/play/play/80.ts
+#EXTINF:-1,Combate HD
+http://192.99.148.73:8080/live/play/play/234.ts
+#EXTINF:-1,Premiere Clubes
+http://192.99.148.73:8080/live/play/play/71.ts
+#EXTINF:-1,Premiere Clubes HD
+http://192.99.148.73:8080/live/play/play/221.ts
+#EXTINF:-1,Premiere 2
+http://192.99.148.73:8080/live/play/play/72.ts
+#EXTINF:-1,Premiere 2 HD
+http://192.99.148.73:8080/live/play/play/217.ts
+#EXTINF:-1,Premiere 3
+http://192.99.148.73:8080/live/play/play/73.ts
+#EXTINF:-1,Premiere 3 HD
+http://192.99.148.73:8080/live/play/play/216.ts
+#EXTINF:-1,Premiere 4
+http://192.99.148.73:8080/live/play/play/74.ts
+#EXTINF:-1,Premiere 4 HD
+http://192.99.148.73:8080/live/play/play/215.ts
+#EXTINF:-1,Premiere 5
+http://192.99.148.73:8080/live/play/play/75.ts
+#EXTINF:-1,Premiere 5 HD
+http://192.99.148.73:8080/live/play/play/214.ts
+#EXTINF:-1,Premiere 6
+http://192.99.148.73:8080/live/play/play/76.ts
+#EXTINF:-1,Premiere 7
+http://192.99.148.73:8080/live/play/play/77.ts
+#EXTINF:-1,Premiere 8
+http://192.99.148.73:8080/live/play/play/78.ts
+#EXTINF:-1,Premiere 9
+http://192.99.148.73:8080/live/play/play/79.ts
+#EXTINF:-1,Off
+http://192.99.148.73:8080/live/play/play/62.ts
+#EXTINF:-1,OFF HD
+http://192.99.148.73:8080/live/play/play/179.ts
+#EXTINF:-1,Woohoo
+http://192.99.148.73:8080/live/play/play/96.ts
+#EXTINF:-1,Bis
+http://192.99.148.73:8080/live/play/play/37.ts
+#EXTINF:-1,BIS HD
+http://192.99.148.73:8080/live/play/play/210.ts
+#EXTINF:-1,Multishow
+http://192.99.148.73:8080/live/play/play/39.ts
+#EXTINF:-1,Multishow HD
+http://192.99.148.73:8080/live/play/play/181.ts
+#EXTINF:-1,MTV
+http://192.99.148.73:8080/live/play/play/38.ts
+#EXTINF:-1,MTV HD
+http://192.99.148.73:8080/live/play/play/219.ts
+#EXTINF:-1,Vh1 Mega hits
+http://192.99.148.73:8080/live/play/play/98.ts
+#EXTINF:-1,Viva
+http://192.99.148.73:8080/live/play/play/36.ts
+#EXTINF:-1,Viva HD
+http://192.99.148.73:8080/live/play/play/212.ts
+#EXTINF:-1,GNT
+http://192.99.148.73:8080/live/play/play/40.ts
+#EXTINF:-1,GNT HD
+http://192.99.148.73:8080/live/play/play/199.ts
+#EXTINF:-1,Fox Life
+http://192.99.148.73:8080/live/play/play/43.ts
+#EXTINF:-1,Fox Life HD
+http://192.99.148.73:8080/live/play/play/857.ts
+#EXTINF:-1,Canal Brasil
+http://192.99.148.73:8080/live/play/play/112.ts
+#EXTINF:-1,Sic Internacional
+http://192.99.148.73:8080/live/play/play/103.ts
+#EXTINF:-1,Music Box Brasil
+http://192.99.148.73:8080/live/play/play/106.ts
+#EXTINF:-1,Prime Box Brasil
+http://192.99.148.73:8080/live/play/play/104.ts
+#EXTINF:-1,Comedy Central
+http://192.99.148.73:8080/live/play/play/111.ts
+#EXTINF:-1,E!
+http://192.99.148.73:8080/live/play/play/42.ts
+#EXTINF:-1,E! HD
+http://192.99.148.73:8080/live/play/play/230.ts
+#EXTINF:-1,Arte 1
+http://192.99.148.73:8080/live/play/play/113.ts
+#EXTINF:-1,TruTV
+http://192.99.148.73:8080/live/play/play/100.ts
+#EXTINF:-1,Syfy
+http://192.99.148.73:8080/live/play/play/102.ts
+#EXTINF:-1,Tooncast
+http://192.99.148.73:8080/live/play/play/97.ts
+#EXTINF:-1,Disney Channel
+http://192.99.148.73:8080/live/play/play/86.ts
+#EXTINF:-1,Disney XD
+http://192.99.148.73:8080/live/play/play/85.ts
+#EXTINF:-1,Disney Junior
+http://192.99.148.73:8080/live/play/play/84.ts
+#EXTINF:-1,Nickelodeon
+http://192.99.148.73:8080/live/play/play/83.ts
+#EXTINF:-1,Nick Jr.
+http://192.99.148.73:8080/live/play/play/87.ts
+#EXTINF:-1,Discovery Kids
+http://192.99.148.73:8080/live/play/play/88.ts
+#EXTINF:-1,Gloob
+http://192.99.148.73:8080/live/play/play/81.ts
+#EXTINF:-1,Boomerang
+http://192.99.148.73:8080/live/play/play/89.ts
+#EXTINF:-1,Cartoon Network
+http://192.99.148.73:8080/live/play/play/82.ts
+#EXTINF:-1,Nat Geo
+http://192.99.148.73:8080/live/play/play/45.ts
+#EXTINF:-1,Nat Geo HD
+http://192.99.148.73:8080/live/play/play/224.ts
+#EXTINF:-1,NatGeo Wild HD
+http://192.99.148.73:8080/live/play/play/180.ts
+#EXTINF:-1,History
+http://192.99.148.73:8080/live/play/play/52.ts
+#EXTINF:-1,History HD
+http://192.99.148.73:8080/live/play/play/168.ts
+#EXTINF:-1,H2
+http://192.99.148.73:8080/live/play/play/53.ts
+#EXTINF:-1,H2 HD
+http://192.99.148.73:8080/live/play/play/173.ts
+#EXTINF:-1,Animal Planet
+http://192.99.148.73:8080/live/play/play/51.ts
+#EXTINF:-1,Animal Planet HD
+http://192.99.148.73:8080/live/play/play/175.ts
+#EXTINF:-1,Discovery Channel
+http://192.99.148.73:8080/live/play/play/46.ts
+#EXTINF:-1,Discovery Channel HD
+http://192.99.148.73:8080/live/play/play/170.ts
+#EXTINF:-1,Discovery Turbo
+http://192.99.148.73:8080/live/play/play/49.ts
+#EXTINF:-1,Discovery Turbo HD
+http://192.99.148.73:8080/live/play/play/231.ts
+#EXTINF:-1,Discovery Science
+http://192.99.148.73:8080/live/play/play/54.ts
+#EXTINF:-1,ID - Investigação Discovery
+http://192.99.148.73:8080/live/play/play/47.ts
+#EXTINF:-1,ID - Investigação Discovery HD
+http://192.99.148.73:8080/live/play/play/174.ts
+#EXTINF:-1,Discovery Home & Health
+http://192.99.148.73:8080/live/play/play/48.ts
+#EXTINF:-1,Discovery Home & Health HD
+http://192.99.148.73:8080/live/play/play/233.ts
+#EXTINF:-1,Discovery Civilization
+http://192.99.148.73:8080/live/play/play/50.ts
+#EXTINF:-1,Discovery Theater HD
+http://192.99.148.73:8080/live/play/play/246.ts
+#EXTINF:-1,Discovery World HD
+http://192.99.148.73:8080/live/play/play/186.ts
+#EXTINF:-1,Record News
+http://192.99.148.73:8080/live/play/play/69.ts
+#EXTINF:-1,Globo News
+http://192.99.148.73:8080/live/play/play/68.ts
+#EXTINF:-1,Band News
+http://192.99.148.73:8080/live/play/play/70.ts
+#EXTINF:-1,Sexy Hot
+http://192.99.148.73:8080/live/play/play/91.ts
+#EXTINF:-1,Sextreme
+http://192.99.148.73:8080/live/play/play/92.ts
+#EXTINF:-1,Playboy TV
+http://192.99.148.73:8080/live/play/play/90.ts
+#EXTINF:-1,Novo Tempo
+http://192.99.148.73:8080/live/play/play/105.ts
+#EXTINF:-1,Fish TV
+http://192.99.148.73:8080/live/play/play/110.ts
+#EXTINF:-1,Aparecida
+http://192.99.148.73:8080/live/play/play/559.ts
+#EXTINF:-1,Canção Nova
+http://192.99.148.73:8080/live/play/play/561.ts
+#EXTINF:-1,Curta!
+http://192.99.148.73:8080/live/play/play/562.ts
+#EXTINF:-1,Food Network
+http://192.99.148.73:8080/live/play/play/563.ts
+#EXTINF:-1,Globo Brasília
+http://192.99.148.73:8080/live/play/play/564.ts
+#EXTINF:-1,Globo Minas
+http://192.99.148.73:8080/live/play/play/565.ts
+#EXTINF:-1,HBO Plus*e
+http://192.99.148.73:8080/live/play/play/568.ts
+#EXTINF:-1,Ideal TV
+http://192.99.148.73:8080/live/play/play/569.ts
+#EXTINF:-1,Lifetime
+http://192.99.148.73:8080/live/play/play/570.ts
+#EXTINF:-1,MAX Prime*e
+http://192.99.148.73:8080/live/play/play/571.ts
+#EXTINF:-1,NBR
+http://192.99.148.73:8080/live/play/play/572.ts
+#EXTINF:-1,Play TV
+http://192.99.148.73:8080/live/play/play/573.ts
+#EXTINF:-1,RBI
+http://192.99.148.73:8080/live/play/play/575.ts
+#EXTINF:-1,RIT
+http://192.99.148.73:8080/live/play/play/579.ts
+#EXTINF:-1,TV Anhanguera Goiânia
+http://192.99.148.73:8080/live/play/play/584.ts
+#EXTINF:-1,TV Ra tim bum
+http://192.99.148.73:8080/live/play/play/586.ts
+#EXTINF:-1,FOX Action HD
+http://192.99.148.73:8080/live/play/play/593.ts
+#EXTINF:-1,FOX Action
+http://192.99.148.73:8080/live/play/play/595.ts
+#EXTINF:-1,Fox 1
+http://192.99.148.73:8080/live/play/play/600.ts
+#EXTINF:-1,Esporte Interativo HD
+http://192.99.148.73:8080/live/play/play/602.ts
+#EXTINF:-1,TBS HD
+http://192.99.148.73:8080/live/play/play/601.ts
+#EXTINF:-1,NatGeo Wild
+http://192.99.148.73:8080/live/play/play/597.ts
+#EXTINF:-1,NHK
+http://192.99.148.73:8080/live/play/play/590.ts
+#EXTINF:-1,Canal Brasil HD
+http://192.99.148.73:8080/live/play/play/220.ts
+#EXTINF:-1,Cartoon HD
+http://192.99.148.73:8080/live/play/play/235.ts
+#EXTINF:-1,Discovery Kids HD
+http://192.99.148.73:8080/live/play/play/232.ts
+#EXTINF:-1,Disney Channel HD
+http://192.99.148.73:8080/live/play/play/208.ts
+#EXTINF:-1,Food Network HD
+http://192.99.148.73:8080/live/play/play/860.ts
+#EXTINF:-1,GloboNews HD
+http://192.99.148.73:8080/live/play/play/227.ts
+#EXTINF:-1,Gloob HD
+http://192.99.148.73:8080/live/play/play/207.ts
+#EXTINF:-1,Lifetime HD
+http://192.99.148.73:8080/live/play/play/226.ts
+#EXTINF:-1,Max Prime HD
+http://192.99.148.73:8080/live/play/play/245.ts
+#EXTINF:-1,MAX UP HD
+http://192.99.148.73:8080/live/play/play/195.ts
+#EXTINF:-1,Nickelodeon HD
+http://192.99.148.73:8080/live/play/play/218.ts
+#EXTINF:-1,Studio Universal HD
+http://192.99.148.73:8080/live/play/play/862.ts
+#EXTINF:-1,Syfy HD
+http://192.99.148.73:8080/live/play/play/861.ts
+#EXTINF:-1,VH1 HD
+http://192.99.148.73:8080/live/play/play/213.ts
+#EXTINF:-1,NatGeo Kids
+http://192.99.148.73:8080/live/play/play/864.ts
 
- to join this conversation on GitHub. Already have an account? Sign in to comment
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Community
-Docs
-Contact
-Manage cookies
-Do not share my personal information
+################################################################################# Futebol Ao Vivo
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/1/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/7/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo 
+http://loadnovo.aovivo.gratis:8081/live/17/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/19/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/18/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/20/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/4/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/3/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eFg5QjF.png" group-title="Futebol Ao Vivo",Jogos Ao Vivo
+http://loadnovo.aovivo.gratis:8081/live/8/playlist.m3u8?LISTABYPEDROJUNIORTUTORIAIS
+
+################################################################################# A Fazenda 9
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FuRKLSq.png" group-title="Reality",A Fazenda SD/HD
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FuRKLSq.png" group-title="Reality",A Fazenda 240p
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_240_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FuRKLSq.png" group-title="Reality",A Fazenda 360p
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_360_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FuRKLSq.png" group-title="Reality",A Fazenda 480p 
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FuRKLSq.png" group-title="Reality",A Fazenda 720p 
+https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_720_av-p.m3u8?sd=10&rebase=on

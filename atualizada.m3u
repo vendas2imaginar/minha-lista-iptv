@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance HD" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance HD
 http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/4776.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tv Clássicos Ao Vivo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="Filmes Classicos",Tv Clássicos Ao Vivo https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance (Apenas Brasil)
 https://afazendaoitohls1-lh.akamaihd.net/i/afazendaoitohls1_1@379189/index_480_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance HD Alternativo (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance HD Alternativo (Apenas Brasil)

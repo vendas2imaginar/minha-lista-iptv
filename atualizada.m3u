@@ -1,4 +1,4 @@
-# #EXTM3U
+#EXTM3U
 #EXTINF:0,#EXTM3U
 #EXTINF:-1 tvg-shift=0 tvg-name= "ACS-NETWORK" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" ,ACS-NETWORK
 #EXTINF:0,http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8

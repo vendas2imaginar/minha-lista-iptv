@@ -1,322 +1,1039 @@
 #EXTM3U
-
-#################### Informações da Lista ####################
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/JGp8mo6vyQ-5BsyNX-2hXrKHaC7PZtgsPGf_z0cbcXq1qlXr0D9avbrDs3uKIZOJ9g=w300" group-title="Informações da Lista",ClaroIPTV-Gospel
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://www.glempreendimentosmg.com.br/sig/img/icones/atualizar.png" group-title="Informações da Lista",03/12/2016
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="https://image.freepik.com/icones-gratis/relogio-de-espessura-simbolo-de-destaque_318-40521.jpg" group-title="Informações da Lista",5:00 Horas
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://www.jmroteta.com/imagenes/user.png" group-title="Informações da Lista",Feito por Wellison
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/70la93ve5/info.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/to0jf9ay5/Whats_App.png" group-title="Informações da Lista",(85) 9 8630-6832
-http://0.0.0.0:1234
-
-#################### Parceiro ####################
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-vK6qSMmJq7U/AAAAAAAAAAI/AAAAAAAAAAA/AuEXjzQL29I/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Parceiro",VL Droid
-http://0.0.0.0:1234
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7px6QQW.jpg" group-title="Parceiro",CLEVERTON Indroid
-http://slrp.sambavideos.sambatech.com/liveevent/pajucara1_7fbed8aac5d5d915877e6ec61e3cf0db/livestream/playlist.m3u8
-
-#################### Novidade ####################
-
-#EXTINF:-1 tvg-logo="https://lh6.ggpht.com/JGp8mo6vyQ-5BsyNX-2hXrKHaC7PZtgsPGf_z0cbcXq1qlXr0D9avbrDs3uKIZOJ9g=w300" group-title="Informações da Lista"Manuteção
-http://0.0.0.0:1234
-
-#################### TV Aberta ####################
-
-#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV Aberta",GLOBO SD
-http://31.204.128.117:8081/live/globo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Record [Brazil]" tvg-name="Record" tvg-logo="http://s21.postimg.org/a8js3gflv/record4.png" group-title="TV Aberta",RECORD SD
-http://31.204.128.117:8081/live/record/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT" tvg-logo="https://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="TV Aberta",SBT SD
-http://liveabr2.sambatech.com.br/abr/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestreamabrsbtbkp.m3u8
-
-#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-name="RedeTV!" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="TV Aberta",REDETV! SD
-http://evp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND SD
-http://31.204.128.117:8081/live/band/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvdiarioce.png" group-title="TV Aberta", TV DIARIO SD
-http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
-
-#################### Noticiários ####################
-
-#EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-name="Globo News" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title="Noticiários",GLOBO NEWS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/222.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="Noticiários",RECORD NEWS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/192.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Band News [Brazil]" tvg-name="Band News" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="Noticiários",BAND NEWS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/251.m3u8?PEDROJUNIORTUTORIAIS
-
-#################### Esportes ####################
-
-#EXTINF:-1 tvg-id="Band Esportes [Brazil]" tvg-name="Band Sports" tvg-logo="http://s9.postimg.org/55q56z7rj/bandsports.png" group-title="Esportes",BAND SPORTS SD
-http://ev.mm.uol.com.br:1935/geobband/operadoras/live.m3u8?MWINFO
-#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",ESPORTE INTERATIVO SD
-http://mdstrm.com/live-stream-playlist/58121908685da2dd08de7ec5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/231.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://s19.postimg.org/bzkyqmgpv/ESPN_Brasil.png" group-title="Esportes",ESPN BRASIL SD
-http://31.204.128.117:8081/live/espnbr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN Plus" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN PLUS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/166.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Fox Sports [Brazil]" tvg-name="Fox Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="Esportes",FOX SPORTS SD
-http://107.182.231.88:1935/liverepeater/ch13-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" tvg-name="Fox Sports 2" tvg-logo="http://assets.enterplay.com.br/images/Channels/Original/fox_sports2.png" group-title="Esportes",FOX SPORTS 2 SD
-http://107.182.231.88:1935/liverepeater/ch14-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",EI MAXX SD 
-http://mdstrm.com/live-stream-playlist/5801255b39c38e1109ddfabd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",EI MAXX 2 SD
-http://mdstrm.com/live-stream-playlist/5801261189b415d108f9603c.m3u8
-
-#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://s17.postimg.org/d28s9ckuj/Spor_TV.png" group-title="Esportes",SPORTV SD
-http://31.204.128.117:8081/live/sportv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://s13.postimg.org/cj3f31t2r/Spor_TV2.png" group-title="Esportes",SPORTV 2
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/184.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://s29.postimg.org/6gznfk6tv/Spor_TV3.png" group-title="Esportes",SPORTV 3
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/183.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-name="Premiere Clubes" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",PREMIERE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/193.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",COMBATE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/244.m3u8?PEDROJUNIORTUTORIAIS
-
-#################### Filmes ####################
-
-#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="Fox" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",FOX SD
-http://107.182.231.88:1935/liverepeater/ch40-1/playlist.m3u8?MWINFO
-
-#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-name="AXN" tvg-logo="http://editorialcirculorojo.com/wp-content/uploads/axn_logo_antiguo.jpg" group-title="Filmes e Séries",AXN
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/252.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="FX [Brazil]" tvg-name="FX" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="Filmes e Séries",FX
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/224.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",PARAMOUNT CHANNEL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/203.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-name="Universal" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries",UNIVERSAL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/170.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-name="Studio Universal" tvg-logo="https://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Filmes e Séries",STUDIO UNIVERSAL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/182.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TNT [Brazil]" tvg-name="TNT" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/171.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-name="TNT Séries" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tntseriesb.png" group-title="Filmes e Séries",TNT SERIES
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/158.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-name="Telecine Premium" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",TELECINE PREMIUM
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/175.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-name="Telecine Action" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",TELECINE ACTION
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/179.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-name="Telecine Touch" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",TELECINE TOUCH
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/174.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-name="Telecine Fun" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",TELECINE FUN
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/177.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-name="Telecine Pipoca" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",TELECINE PIPOCA
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/176.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="Telecine Cult" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="Documentários",TELECINE CULT
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/178.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="Filmes e Séries",TLC
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/172.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-name="TCM" tvg-logo="http://multimidiatv.com.br/images/_0003_tcm.png" group-title="Filmes e Séries",TCM
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/180.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-name="Sony" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",SONY
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/247.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="SPACE [Brazil]" tvg-name="Space" tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="Filmes e Séries",SPACE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/186.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-name="Megapix" tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg" group-title="Filmes e Séries",MEGAPIX SD
-http://31.204.128.117:8081/live/megapix/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="Filmes e Séries",CINEMAX
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/245.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-name="HBO" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/218.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-name="HBO 2" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/214.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-name="HBO Family" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO FAMILY
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/217.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-name="HBO Plus" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO PLUS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/216.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Deutsche Welle [Brazil]" tvg-name="HBO Signature" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO SINGNATURE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/215.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-name="Warner Channel" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Filmes e Séries",WARNER CHANNEL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/168.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-name="TBS" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Séries",TBS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/181.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Max up HD [Brazil]" tvg-name="Max Up" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="Filmes e Séries",MAX UP
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/211.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries",MAX PRIME
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/212.m3u8?PEDROJUNIORTUTORIAIS
-
-#################### Infantil ####################
-
-#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-logo="http://s20.postimg.org/s3jq0ib3h/Boomerang.png" group-title="Canais infantis",Boomerang
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/248.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Canais infantis",DISCOVERY KIDS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/240.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="https://s32.postimg.org/iytuuw9j9/disney_channel.png" group-title="Canais infantis",DISNEY CHANNEL SD
-http://31.204.128.117:8081/live/disney/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-name="Disney Junior" tvg-logo="https://s31.postimg.org/ntzixxfjf/disney_junior.png" group-title="Canais infantis",DISNEY JUNIOR
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/236.m3u8
-
-#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-name="Disney XD" tvg-logo="http://s28.postimg.org/wglxtxbeh/disneyxd.png" group-title="Canais infantis",DISNEY XD
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/235.m3u8
-
-#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-name="Nickelodeon" tvg-logo="http://s18.postimg.org/f9sbnd0c5/nick.png" group-title="Canais infantis",NICKELODEON
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/205.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-name="Nick Jr." tvg-logo="http://s31.postimg.org/6051scm2j/nick_jr.png" group-title="Canais infantis",NICK JR.
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/206.m3u8
-
-#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="Gloob" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="Canais infantis",GLOOB
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/221.m3u8
-
-#EXTINF:-1 tvg-id="Tooncast [Brazil]" tvg-name="Tooncast" tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2014/05/tooncast_left_logo1.jpg" group-title="Canais infantis",TOONCAST
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/157.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon Network [Brazil]" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Canais infantis",CARTOON NETWORK SD
-http://31.204.128.117:8081/live/cartoon/playlist.m3u8
-
-#################### Documentários ####################
-
-#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-logo="http://s20.postimg.org/4a5dbo1hl/Discovery.png" group-title="Documentários",Discovery Channel
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/243.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-name="History Channel" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentários",HISTORY CHANNEL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/173.m3u8
-
-#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://k45.kn3.net/735B15C6D.png" group-title="Documentários",H2
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/219.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA TV UNIVATES" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f91359ccba726fb29cf7f461c35005e.jpg" group-title="Documentários",FUTURA TV UNIVATES
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/257.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="Documentários",GNT
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/220.m3u8
-
-#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-name="National Geographic" tvg-logo="http://www.dnet.lv/i/assets/channels/NatGeoWild.jpg" group-title="Documentários",NATIONAL GEOGRAPHIC
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/207.m3u8
-
-#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-name="Animal Planet" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentários",ANIMAL PLANET
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/253.m3u8
-
-#EXTINF:-1 tvg-id="A E [Brazil]" tvg-name="A&E" tvg-logo="https://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Documentários",A&E
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/254.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentários",FISH TV
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/164.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-name="Discovery" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentários",DISCOVERY
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/243.m3u8
-
-#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Discovery ID" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentários",DISCOVERY ID
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/213.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-name="Discovery Turbo" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Documentários",DISCOVERY TURBO
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/238.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-name="Discovery Science" tvg-logo="https://s16.postimg.org/fuf7d6h5d/dscience.png" group-title="Documentários",DISCOVERY SCIENCE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/239.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-name="Discovery Home & Health" tvg-logo="//s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="Documentários",DISCOVERY HOME & HEALTH
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/241.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-name="Discovery Civilization" tvg-logo="https://s32.postimg.org/tic0sfa85/civilization.png" group-title="Documentários",DISCOVERY CIVILIZATION
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/242.m3u8
-
-#################### Religiosos ####################
-
-#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="http://pt1.noticias.adventistas.org/2013/06/LOGO-NOVO-TEMPO.jpg" group-title="Canais religiosos",NOVO TEMPO
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/160.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="GOSPEL TV" tvg-logo="http://www.dicasdiarias.com/wp-content/uploads/2016/01/assistir-tv-gospel-ao-vivo.jpg" group-title="Canais religiosos",GOSPEL TV
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/258.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Igreja Online TV" tvg-logo="https://i.ytimg.com/i/2Ubjz3ovdYrbZ98LJPd03g/mq1.jpg?v=b3759f" group-title="Canais religiosos",IGREJA ONLINE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/260.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="http://www.a12.com/files/media/originals/tv_aparecida.jpg" group-title="Canais religiosos",TV APARECIDA
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/256.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ALTAR CENTRAL" tvg-logo="http://noticiascatolicas.com.br/wp-content/uploads/2013/04/Missa_de_abertura.jpg" group-title="Canais religiosos",ALTAR CENTRAL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/259.m3u8
-
-#################### Variedades & Musicas ####################
-
-#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life" tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="Variedades & Musicas",FOX LIFE
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/228.m3u8
-
-#EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-name="Comedy Central" tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentralLogo.jpg" group-title="Variedades & Musicas",COMEDY CENTRAL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/269.m3u8
-
-#EXTINF:-1 tvg-id="TruTV [Brazil]" tvg-name="TruTV" tvg-logo="http://aovivonatv.com/fotos/e754de2087b0913fad9daed9c0f4c4b5.jpg" group-title="Variedades & Musicas",TRUTV
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/268.m3u8
-
-#EXTINF:-1 tvg-id="SyFy [Brazil]" tvg-name="Syfy" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="Variedades & Musicas",SYFY
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/159.m3u8
-
-#EXTINF:-1 tvg-id="WooHoo [Brazil]" tvg-name="Woohoo" tvg-logo="http://clarotv.claro.com.br/image/Get/3117" group-title="Variedades & Musicas",WOOHOO
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/167.m3u8
-
-#EXTINF:-1 tvg-id="Bis HD [Brazil]" tvg-name="Bis" tvg-logo="https://s19.postimg.org/6q1jmdo2r/bis.png" group-title="Variedades & Musicas",BIS
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/249.m3u8
-
-#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-name="Multishow" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="Variedades & Musicas",MULISHOW
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/208.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil" tvg-logo="https://i.ytimg.com/vi/wrXgD7nNwqY/hqdefault.jpg" group-title="Variedades & Musicas",MUSIC BOX BRASIL
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/270.m3u8
-
-#EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-name="MTV" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="Variedades & Musicas",MTV
-http://103.195.102.202:25461/live/PAULOVICTORVIP_IPTVELOX/mcTBTBHUWF/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2000px-Animal_Planet_logo.svg.png" group-title="Documentarios",Animal Planet
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1864.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aparecida" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="Canais Abertos",Aparecida
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1862.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1" tvg-logo="http://skyassinar.com.br/images/canais/244_5420BDCBD5F4097B.png" group-title="Variedades",Arte 1
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1861.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1860.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Alternativo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1277px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Variedades",Band Alternativo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1859.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band News" tvg-logo="http://static.feirasenegocios.com.br/static/images/LOGO_BANDNEWS.png" group-title="Esportes",Band News
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1857.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2000px-BandSports_logo.svg.png" group-title="Esportes",Band Sports
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1856.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes" tvg-logo="http://www.endocrinologia.com.br/2015/img/vd/band_mg.png" group-title="Canais Abertos",Bandeirantes
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1855.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBB 17" tvg-logo="http://iptvwebcsgo.com/images/BBB17.fw.png" group-title="Entretenimento",BBB 17
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1854.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://s2.glbimg.com/ymTn9IE0rr_YJHRPbzwhmyCSdFk=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/d7/69/8ca415a17b57bdc9dff88a951e82.png" group-title="Entretenimento",BIS
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1853.ts
+#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="http://www.clipartbest.com/cliparts/niE/En4/niEEn4a6T.png" group-title="Infantis",Boomerang
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="Filmes",Canal Brasil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Rural" tvg-logo="http://2.bp.blogspot.com/-PBv8cht4HdI/VR2cAyBy8hI/AAAAAAAABTM/qIqwgetNXfs/s1600/canal_rural.png" group-title="Variedades",Canal Rural
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Canal Sony
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cancao Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="Canais Abertos",Cancao Nova
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/31/Cartoon_Network_Logo_(2004-2010).png/revision/latest?cb=20111202084325" group-title="Infantis",Cartoon Network
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1847.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2000px-A%26E_Network_logo.svg.png" group-title="Series",A&E
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Cinemax_logo_logo.png" group-title="Canais HBO",Cinemax
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate" tvg-logo="http://cdn2.vendasclarohdtv.com.br/Content/Hotsites/luta/img/banner_012.png" group-title="Esportes",Combate
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Series",Comedy Central
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1843.ts
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/curta.png" group-title="Variedades",Curta!
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1842.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://cf.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="Documentarios",Discovery Channel
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9b/Discovery_Civilization_2011.png/revision/latest?cb=20110127062351" group-title="Documentarios",Discovery Civilization
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1839.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery H&H" tvg-logo="http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png" group-title="Variedades",Discovery H&H
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Infantis",Discovery Kids
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a8/LOGO_DISCOVERY_SCIENCE.png" group-title="Documentarios",Discovery Science
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1835.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Documentarios",Discovery Turbo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1834.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/Disney_Junior_Logo.png" group-title="Infantis",Disney Junior
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1831.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png" group-title="Infantis",Disney XD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1830.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/dd/Disney_Logo.png" group-title="Infantis",Disney
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1832.ts
+#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E!_Logo_2012.svg/1000px-E!_Logo_2012.svg.png" group-title="Variedades",E!
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1829.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx 2" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/cc/EI_Maxx_2.png/revision/20160125133416" group-title="Esportes",EI Maxx 2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1827.ts
+#EXTINF:-1 tvg-id="" tvg-name="EI Maxx" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/eimaxxb.png" group-title="Esportes",EI Maxx
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1828.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/640px-Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1866.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1824.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/fishtv.png" group-title="Variedades",Fish TV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1822.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/500px-Food_Network_Logo.svg.png" group-title="Variedades",Food Network
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1821.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/8/80/Fox_Life_Brasil_Logo.png/revision/latest?cb=20140126143942&path-prefix=pt-br" group-title="Variedades",Fox Life
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1817.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="Esportes",Fox Sports 2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1814.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="http://www.logospike.com/wp-content/uploads/2015/11/Fox_Sports_Logo_01.png" group-title="Esportes",Fox Sports
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1815.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png/revision/latest?cb=20121206124654" group-title="Series",FOX
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1820.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="http://portal.pucminas.br/puctv/imagens/parceiros/Futura_1.png" group-title="Documentarios",Futura
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1813.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/2000px-FX_Italia_logo.svg.png" group-title="Series",FX
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1812.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo SP
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1810.ts
+#EXTINF:-1 tvg-id="" tvg-name="GloboNews" tvg-logo="http://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Canais Globosat",GloboNews
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1809.ts
+#EXTINF:-1 tvg-id="" tvg-name="Gloob" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/1/12/20120320050805!Logo_Gloob.png" group-title="Infantis",Gloob
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1808.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/gnt.png" group-title="Canais Globosat",GNT
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1807.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="http://listaiptvbrasil.com/logos/h2.png" group-title="Documentarios",H2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1806.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/3/3a/HBO_Family_logo.png/revision/latest?cb=20160707203647" group-title="Canais HBO",HBO Family
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1803.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus e" tvg-logo="http://www.skypontagrossa.com.br/images/canais/277_5412F83E5FD26517.png" group-title="Canais HBO",HBO Plus e
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1800.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Plus.png" group-title="Canais HBO",HBO Plus
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1801.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://www.fetchlogos.com/wp-content/uploads/2015/10/HBO-Signature-Logo.png" group-title="Canais HBO",HBO Signature
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1799.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Canais HBO",HBO
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1805.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Canais HBO",HBO2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1798.ts
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="http://www.lamac.org/res/channels/logos/_0008_isat.png" group-title="Series",I-SAT
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1796.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigacao Discovery" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205!Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png" group-title="Series",ID - Investigacao Discovery
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1795.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="http://vignette2.wikia.nocookie.net/tvpediabrasil/images/5/56/Ideal_TV.png/revision/latest?cb=20150219221719&path-prefix=pt-br" group-title="Canais Abertos",Ideal TV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1794.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://vignette1.wikia.nocookie.net/deviousmaids/images/b/bc/Lifetime_Logo.png/revision/latest?cb=20140216020400" group-title="Series",Lifetime
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1793.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mais Globosat" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/responsivo/assets/images/maisglobosat/logo/maisglobosat.png" group-title="Canais Globosat",Mais Globosat
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1792.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime e" tvg-logo="http://www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="Canais HBO",MAX Prime e
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1789.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/2000px-Max_Prime_2012_logo.svg.png" group-title="Canais HBO",MAX Prime
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1790.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX UP" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/maxup.png" group-title="Canais HBO",MAX UP
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1788.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="Canais HBO",MAX
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1791.ts
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Filmes",MegaPix
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1787.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" group-title="Entretenimento",MTV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1786.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow" tvg-logo="http://s2.glbimg.com/65g89MNiYIXrhLX1jklSghn44mM=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/6e/44/cfa477de2556a75a32a3ee2b7b89.png" group-title="Canais Globosat",Multishow
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1785.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://tudotv.tv/fotos/c80c2cbdd39021dc0d0af2134cdb88fd.png" group-title="Entretenimento",Music Box Brazil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1784.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Documentarios",NatGeo Wild
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1783.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2000px-National-Geographic-Logo.svg.png" group-title="Documentarios",National Geographic
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1782.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBR" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/nbr.png" group-title="Canais Abertos",NBR
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1780.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="http://logonoid.com/images/nhk-logo.png" group-title="Variedades",NHK
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1779.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2000px-Nick_Jr._logo_2009.svg.png" group-title="Infantis",Nick Jr
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1778.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20121013060525" group-title="Infantis",Nickelodeon
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="Variedades",Novo Tempo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1776.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="Canais Globosat",OFF
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1775.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Paramount_1988_Communications.png/revision/latest?cb=20121103012803" group-title="Filmes",Paramount
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1774.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 3
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1768.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 4
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1766.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 5
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1764.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 6
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 7
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 8
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1760.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 9
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere Clubes
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1758.ts
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/primeboxbrazil.png" group-title="Filmes",Prime Box Brazil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1757.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="https://pbs.twimg.com/profile_images/1188141070/Untitled-1_400x400.png" group-title="Canais Abertos",RBI
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1756.ts
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/rbsrs.png" group-title="Canais Abertos",RBS TV Porto Alegre
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1755.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record News" tvg-logo="http://vignette3.wikia.nocookie.net/telepedia/images/0/05/Record_News.png/revision/latest?cb=20120229133037&path-prefix=pt-br" group-title="Canais Abertos",Record News
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1753.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/1/14/20161125125344!Logo_of_Rede_Record.png" group-title="Canais Abertos",RECORDTV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/37/Logo_Rede_Brasil.png" group-title="Canais Abertos",Rede Brasil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV!.png" group-title="Canais Abertos",Rede TV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="http://static.redevida.com.br/img/redevida-logo.png" group-title="Canais Abertos",Rede Vida
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1749.ts
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Rede_Internacional_de_Televis%C3%A3o.png" group-title="Canais Abertos",RIT
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1748.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo1.png" group-title="Canais Abertos",SBT
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1747.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Internacional" tvg-logo="http://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="Variedades",SIC Internacional
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="http://convergecom.com.br/wp-content/uploads/2016/05/SPACE.png" group-title="Filmes",Space
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1742.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="https://4.bp.blogspot.com/-UV4ZT1yTww0/V6U23nsuNSI/AAAAAAAAAwk/1jqu0WgkNkM_liUU9odLJ8SQIaaFxmXngCPcB/s1600/2.png" group-title="Esportes",SporTV 2 Alternativo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1736.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2" tvg-logo="http://www.tv-ao-vivo.net/vereassistir/wp-content/uploads/2011/08/sportv2.png" group-title="Esportes",SporTV 2
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1737.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",SporTV 3
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1735.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="http://static2.wikia.nocookie.net/__cb20120720191553/logopedia/images/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV Alternativo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1734.ts
+#EXTINF:-1 tvg-id="" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/SporTV_logo_2011.png" group-title="Esportes",SporTV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/2000px-Logo_Studio_Universal.svg.png" group-title="Filmes",Studio Universal
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Series",Syfy
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1732.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1731.ts
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://vignette4.wikia.nocookie.net/world-of-media/images/c/c0/TCM_logo.png/revision/latest?cb=20140103150834" group-title="Filmes",TCM
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Canais Telecine",Telecine Action
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult" tvg-logo="http://files.servidorcs1.webnode.com/200001032-9fdbaa0d3f/Telecine_Cult_Gato.png" group-title="Canais Telecine",Telecine Cult
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcfunb.png" group-title="Canais Telecine",Telecine Fun
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca" tvg-logo="http://static.wixstatic.com/media/acb2cc_63cb2ebb355b75eefb54db8699566faa.png_srz_1140_611_85_22_0.50_1.20_0.00_png_srz" group-title="Canais Telecine",Telecine Pipoca
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Canais Telecine",Telecine Premium
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1721.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1720.ts
+#EXTINF:-1 tvg-id="" tvg-name="Terra Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/2000px-Terra_Viva_logo.svg.png" group-title="Variedades",Terra Viva
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1719.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1718.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Variedades",TLC
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1717.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20150603173408" group-title="Series",TNT Series
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1714.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Filmes",TNT
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1716.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="Infantis",Tooncast
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" group-title="Series",Universal Channel
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1707.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/680px-LOGO_VH1_MEGA_HITS.svg.png" group-title="Entretenimento",VH1 Megahits
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/e/ef/Canal_viva_logo_.png/revision/latest?cb=20140519221640" group-title="Canais Globosat",Viva
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1705.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="http://www.lamac.org/res/channels/logos/_0000_warner.png" group-title="Series",Warner Channel
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1704.ts
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/woohoo.png" group-title="Variedades",Woohoo
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1703.ts
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://vignette2.wikia.nocookie.net/tvkanal/images/5/5a/Animal_Planet_HD.png/revision/latest?cb=20091204222447&path-prefix=da" group-title="Documentarios",Animal Planet HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1863.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/07/band.png" group-title="Canais Abertos",Band HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1858.ts
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Esportes",Combate HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1844.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="Documentarios",Discovery Channel HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1840.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="Variedades",Discovery Home & Health HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="http://vignette1.wikia.nocookie.net/logosfake/images/9/90/Discovery_Turbo_HD.png" group-title="Documentarios",Discovery Turbo HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1833.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d4/EI_Maxx_logos.png" group-title="Esportes",Ei Maxx 2 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1826.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx HD" tvg-logo="http://4.bp.blogspot.com/-x9DbV37Lns0/U1salrGOexI/AAAAAAAAiRw/vv0u-5dRYZ8/s1600/Esporte-interativo.png" group-title="Esportes",Ei Maxx HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1825.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23" group-title="Series",Fox 1 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1819.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/9d/Fox_Action_HD.png/revision/latest?cb=20160119140445" group-title="Series",Fox Action HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1818.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/d/de/IvIPy8fZekp1X.png/revision/latest?cb=20121102222303" group-title="Esportes",Fox Sport HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1816.ts
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/Tv_globo_internacional_2011.png/revision/latest?cb=20140406193435" group-title="Canais Abertos",Globo RJ HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1811.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/1/1f/HBO2_HD_logo.png/revision/latest?cb=20120615194124" group-title="Canais HBO",HBO 2 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1804.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Canais HBO",HBO HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1802.ts
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png" group-title="Documentarios",History Channel HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1797.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentarios",National Geography HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1781.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 1 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1771.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 2 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1769.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="Esportes",Premiere 3 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1767.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 4 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1765.ts
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="http://www.vendasclaro.com.br/blog/wp-content/uploads/2015/07/PremiereFC-na-claro-tv.png" group-title="Esportes",Premiere 5 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1763.ts
+#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="http://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="Canais Abertos",Record HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1754.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="Canais Abertos",SBT HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112155032-canal-sport-tv-2-hd.png" group-title="Esportes",Sport TV 2 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/SporTV_3_logo_2011.png" group-title="Esportes",Sport TV 3 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154937-canal-sport-tv-hd.png" group-title="Esportes",Sport TV HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154149-canal-telecine-action-hd.png" group-title="Canais Telecine",Telecine Action HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1730.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151131-canal-telecine-fun-hd.png" group-title="Canais Telecine",Telecine Fun HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1729.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151057-canal-telecine-pipoca-hd.png" group-title="Canais Telecine",Telecine Pipoca HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1728.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112151336-canal-telecine-premium-hd.png" group-title="Canais Telecine",Telecine Premium HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1727.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/a/aa/TNT_HD_Europe_logo.png/revision/latest?cb=20160601164855" group-title="Filmes",TNT HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1715.ts
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="Esportes",Band Sports HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2119.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/250px-Logo_of_Bis.svg.png" group-title="Entretenimento",BIS HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="Documentarios",Discovery Theater HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2114.ts
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://skay.tv.br/images/canais/268_786A75DB011ED7CD.png" group-title="Canais Globosat",GNT HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2118.ts
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="http://www.skypontagrossa.com.br/images/canais/304_E45DCEB22E506167.png" group-title="Filmes",Megapix HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2111.ts
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="https://4.bp.blogspot.com/-2CojkQcbBZw/VuSjiLe9WBI/AAAAAAAAo2U/0cQqqLipg2AYGnF_od-jQzGQYddZQwKMgCKgB/s1600/80aa676019fdeb8d5cded638b6ec.png" group-title="Canais Globosat",Multishow HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2123.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="http://vignette4.wikia.nocookie.net/opoderosochefao/images/5/5e/Paramount.png/revision/latest?cb=20120816001553&path-prefix=pt" group-title="Filmes",Paramount HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2117.ts
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://3.bp.blogspot.com/-CNxee4SfnJ4/TyJIrX9VP8I/AAAAAAAAADM/yLEZuzTbpBw/s1600/Space_lam_hd.png" group-title="Filmes",Space HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2115.ts
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tbsb.png" group-title="Series",TBS HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2121.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Series",TNT Series HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2116.ts
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/9/9f/Universal_Channel_HD_alt.png" group-title="Series",Universal Channel HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2112.ts
+#EXTINF:-1 tvg-id="AXN HD [Brazil]" tvg-name="AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Series",AXN HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2165.ts
+#EXTINF:-1 tvg-id="Sony HD [Brazil]" tvg-name="Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Sony_logo.svg/2000px-Canal_Sony_logo.svg.png" group-title="Series",Sony HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2164.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Documentarios",Discovery World HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2163.ts
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="Variedades",Fox Life HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2159.ts
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="FOX HD" tvg-logo="http://convergecom.com.br/wp-content/uploads/2015/03/FOX.png" group-title="Series",FOX HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2160.ts
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LogoFX.svg/2000px-LogoFX.svg.png" group-title="Series",FX HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2157.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="http://2.bp.blogspot.com/-1wyWYE6VL80/VCwJ3TJfRtI/AAAAAAAAAFg/depxSjME-N4/s1600/History-2-logo-2011.png" group-title="Documentarios",H2 HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2156.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/HBO_Family.png" group-title="Canais HBO",HBO Family HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2155.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Canais HBO",HBO Plus HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2154.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="Canais HBO",HBO Signature HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2153.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://skay.tv.br/images/canais/290_4207B126F3F18531.png" group-title="Series",ID - Investigação Discovery HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2152.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png" group-title="Documentarios",NatGeoWild HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2151.ts
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="http://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="Canais Globosat",OFF HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="Canais Abertos",Rede TV HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="Canais Telecine",Telecine Touch HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2148.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History Channel HD" tvg-logo="http://vignette1.wikia.nocookie.net/indianajones/images/e/e3/History_channel_logo.png/revision/latest?cb=20100624030706" group-title="Documentarios",The History Channel HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2147.ts
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://1.bp.blogspot.com/-9dMEH-pU25E/U3eKe1UeOtI/AAAAAAAAiew/lTGTkCArT3U/s1600/Canal_Viva_logo.png" group-title="Canais Globosat",Viva HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://vignette4.wikia.nocookie.net/arrow/images/8/8a/Warner_Channel_logo.png/revision/latest?cb=20150529212740&path-prefix=pt-br" group-title="Series",Warner Channel HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2146.ts
+#EXTINF:-1 tvg-id="Bis HD [Brazil]" tvg-name="BIS FullHD h265" tvg-logo="http://www.skyerechim.com.br/images/canais/194_450D4948892F0FEF.png" group-title="Entretenimento",BIS FullHD h265
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2726.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series FullHD H265" tvg-logo="http://www.playhdtv.pw/img/tntseries.png" group-title="Series",TNT Series FullHD H265
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2725.ts
+#EXTINF:-1 tvg-id="ESPN International [Brazil]" tvg-name="ESPN HD" tvg-logo="http://vignette2.wikia.nocookie.net/clubpenguin/images/9/9b/Logo_ESPN.png/revision/latest?cb=20140622175252" group-title="Esportes",ESPN HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2162.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Esportes",ESPN Brasil HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1823.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Esperanza Gomez | Tonights Girl Friend" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/9/9c/Logo_ESPN_HD.png/revision/latest?cb=20160113004056" group-title="Adulto (+18)",ADULTO | Esperanza Gomez | Tonights Girl Friend
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | BangBus | Selena Sosa 18 Anos" tvg-logo="http://vidzpornx.com/wp-content/uploads/2016/12/BangBus-Selena-Sosa-18-Year-Old-Brazilian-Babe-Gets-Ditched-By-Her-Boyfriend.jpg" group-title="Adulto (+18)",ADULTO | BangBus | Selena Sosa 18 Anos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Amador | 01" tvg-logo="https://thumb1.shutterstock.com/display_pic_with_logo/947257/340638500/stock-vector-x-marks-handwritten-letter-sign-two-crossed-vector-brush-strokes-340638500.jpg" group-title="Adulto (+18)",ADULTO | Amador | 01
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Irmas Blu" tvg-logo="http://static1.brasileirinhas.com.br/arquivosDaCasa/ensaios/img/238/irmãs-no-pornô.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Irmas Blu
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Fernandinha Fernandes" tvg-logo="http://gcache.imagehost123.com/mi/839/h2.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Fernandinha Fernandes
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Melissa" tvg-logo="https://thumb1.shutterstock.com/display_pic_with_logo/947257/340638500/stock-vector-x-marks-handwritten-letter-sign-two-crossed-vector-brush-strokes-340638500.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Melissa
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Stretching Liandra" tvg-logo="https://thumb1.shutterstock.com/display_pic_with_logo/947257/340638500/stock-vector-x-marks-handwritten-letter-sign-two-crossed-vector-brush-strokes-340638500.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Stretching Liandra
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mike In Brazil | Nayra Mendes" tvg-logo="http://cdn7.images.realitykings.com/rk/mikeinbrazil/faces/nayra2.pick0.jpg" group-title="Adulto (+18)",ADULTO | Mike In Brazil | Nayra Mendes
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Mia Malkova" tvg-logo="http://pixdaus.com/files/items/pics/6/23/667623_5786d83fc32c90efd6b5bd99d1c4e16c_large.jpg" group-title="Adulto (+18)",ADULTO | Mia Malkova
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Abella Danger" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Abella Danger
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Alexis Texas" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Alexis Texas
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Alexis Texas Jada Stevens" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Alexis Texas Jada Stevens
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Battle Of The Asses 6 | Mia Malkova" tvg-logo="http://playpornx.net/wp-content/uploads/2016/10/Battle-Of-The-Asses-6.jpg" group-title="Adulto (+18)",ADULTO | Battle Of The Asses 6 | Mia Malkova
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Jenna jameson Is The Masseuse" tvg-logo="http://ecdn.hs.llnwd.net/e1/GLImages/prodimages/210450a.jpg?wid=380" group-title="Adulto (+18)",ADULTO | Jenna jameson Is The Masseuse
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1012.avi
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | 3 Horas com a Estrela Julia Paes" tvg-logo="http://www.nicolleshop.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/3/6373be8ded.jpg" group-title="Adulto (+18)",ADULTO | 3 Horas com a Estrela Julia Paes
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1017.avi
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Babi Ventura" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/5719.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Babi Ventura
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Karen Havary" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/listagem/6146.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Karen Havary
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Mary Luthay" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/pornstars/perfil/gostosa-mary-luthay-794.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Mary Luthay
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | A Casa das Brasileirinhas | Rebecca Santos" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/pornstars/perfil/gostosa-rebecca-santos-796.jpg" group-title="Adulto (+18)",ADULTO | A Casa das Brasileirinhas | Rebecca Santos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Casa das Brasileirinhas | Irmas Blu" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/lancamentos/grande/6145.jpg" group-title="Adulto (+18)",ADULTO | Casa das Brasileirinhas | Irmas Blu
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 2" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 3" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 3
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 4" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 4
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas | Adultera Cena 5" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas | Adultera Cena 5
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO | Brasileirinhas Adultera | Cena 1" tvg-logo="http://static1.brasileirinhas.com.br/Brasileirinhas/images/conteudo/filmes/original/Capa-do-filme-adultera-Frente-711.jpg" group-title="Adulto (+18)",ADULTO | Brasileirinhas Adultera | Cena 1
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sextreme" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest?cb=20130927203009" group-title="Adultos",Sextreme
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/25/Sexy_Hot_logo.png/revision/latest?cb=20130504223718" group-title="Adultos",Sexy Hot
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="http://logonoid.com/images/playboy-tv-logo.png" group-title="Adultos",Playboy TV
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/1772.ts
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV (PT)" tvg-logo="" group-title="Adultos",Playboy TV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Venus (PT)" tvg-logo="" group-title="Adultos",Venus (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2562.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot (PT)" tvg-logo="" group-title="Adultos",Hot (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot Club (PT)" tvg-logo="" group-title="Adultos",Hot Club (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2572.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hot Mix (PT)" tvg-logo="" group-title="Adultos",Hot Mix (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2571.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers (US)" tvg-logo="" group-title="Adultos",Brazzers (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers Europe (US)" tvg-logo="" group-title="Adultos",Brazzers Europe (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2578.ts
+#EXTINF:-1 tvg-id="" tvg-name="EroXXX (US)" tvg-logo="" group-title="Adultos",EroXXX (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2575.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fake Taxi (US)" tvg-logo="" group-title="Adultos",Fake Taxi (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hustler HD (US)" tvg-logo="" group-title="Adultos",Hustler HD (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2570.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 1 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 1 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2561.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 10 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 10 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2552.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 11 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 11 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2551.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 12 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 12 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2550.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 2 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 2 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2560.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 3 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 3 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2559.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 4 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 4 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2558.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 5 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 5 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2557.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 6 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 6 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2556.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 7 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 7 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2555.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 8 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 8 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2554.ts
+#EXTINF:-1 tvg-id="" tvg-name="La France a Poil 9 (FR)" tvg-logo="" group-title="Adultos",La France a Poil 9 (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2553.ts
+#EXTINF:-1 tvg-id="" tvg-name="PassieXXX (US)" tvg-logo="" group-title="Adultos",PassieXXX (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse HD (US)" tvg-logo="" group-title="Adultos",Penthouse HD (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse HD 2 (US)" tvg-logo="" group-title="Adultos",Penthouse HD 2 (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2565.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality (PT)" tvg-logo="" group-title="Canais Portugal",TVI Reality (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2696.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Reality HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI Reality HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2695.ts
+#EXTINF:-1 tvg-id="" tvg-name="Redlight HD (US)" tvg-logo="" group-title="Adultos",Redlight HD (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2564.ts
+#EXTINF:-1 tvg-id="" tvg-name="A&E (PT)" tvg-logo="" group-title="Canais Portugal",A&E (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2656.ts
+#EXTINF:-1 tvg-id="" tvg-name="ABC News (US)" tvg-logo="" group-title="",ABC News (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2595.ts
+#EXTINF:-1 tvg-id="" tvg-name="AMC (PT)" tvg-logo="" group-title="Canais Portugal",AMC (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2655.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black (PT)" tvg-logo="" group-title="Canais Portugal",AXN Black (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2652.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN (PT)" tvg-logo="" group-title="Canais Portugal",AXN (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2654.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN Black HD" tvg-logo="" group-title="",AXN Black HD
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2653.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD (PT)" tvg-logo="" group-title="Canais Portugal",AXN HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2651.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White (PT)" tvg-logo="" group-title="Canais Portugal",AXN White (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2650.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN White HD (PT)" tvg-logo="" group-title="Canais Portugal",AXN White HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2649.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News (US)" tvg-logo="" group-title="",BBC News (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2594.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caça e Pesca (PT)" tvg-logo="" group-title="Canais Portugal",Caça e Pesca (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2690.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caçavision (PT)" tvg-logo="" group-title="Canais Portugal",Caçavision (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2689.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cam: Praia de Copacabana HD - Brasil" tvg-logo="" group-title="",Cam: Praia de Copacabana HD - Brasil
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2718.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cam: Praia do Matosinhos HD - Portugal" tvg-logo="" group-title="",Cam: Praia do Matosinhos HD - Portugal
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2717.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Q (PT)" tvg-logo="" group-title="Canais Portugal",Canal Q (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2714.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network (PT)" tvg-logo="" group-title="Canais Portugal",Cartoon Network (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2626.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS Reality (PT)" tvg-logo="" group-title="Canais Portugal",CBS Reality (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2713.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cinemundo TV (PT)" tvg-logo="" group-title="Canais Portugal",Cinemundo TV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2648.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMTV (PT)" tvg-logo="" group-title="Canais Portugal",CMTV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2712.ts
+#EXTINF:-1 tvg-id="" tvg-name="CMTV HD (PT)" tvg-logo="" group-title="Canais Portugal",CMTV HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2711.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN (US)" tvg-logo="" group-title="",CNN (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2593.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Channel (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2608.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Channel HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2607.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Showcase (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Showcase HD (PT)" tvg-logo="" group-title="Canais Portugal",Discovery Showcase HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel (PT)" tvg-logo="" group-title="Canais Portugal",Disney Channel (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2625.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior (PT)" tvg-logo="" group-title="Canais Portugal",Disney Junior (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2624.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment (PT)" tvg-logo="" group-title="Canais Portugal",E! Entertainment (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2693.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews (PT)" tvg-logo="" group-title="Canais Portugal",Euronews (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2592.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Espanha (ES)" tvg-logo="" group-title="",Euronews Espanha (ES)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2590.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews France (FR)" tvg-logo="" group-title="",Euronews France (FR)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2589.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Germany (DE)" tvg-logo="" group-title="",Euronews Germany (DE)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2588.ts
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Italia (IT)" tvg-logo="" group-title="",Euronews Italia (IT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2587.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport 1 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2687.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport 2 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2686.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 Xtra (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport 2 Xtra (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2685.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport News (PT)" tvg-logo="" group-title="Canais Portugal",Eurosport News (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2591.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Box (PT)" tvg-logo="" group-title="Canais Portugal",Fight Box (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2684.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network (PT)" tvg-logo="" group-title="Canais Portugal",Fight Network (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2683.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network (PT)" tvg-logo="" group-title="Canais Portugal",Food Network (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2692.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 23 News (US)" tvg-logo="" group-title="",Fox 23 News (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2586.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox 30 News (US)" tvg-logo="" group-title="",Fox 30 News (US)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2585.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Comedy (PT)" tvg-logo="" group-title="Canais Portugal",Fox Comedy (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2645.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Crime (PT)" tvg-logo="" group-title="Canais Portugal",Fox Crime (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2644.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD (PT)" tvg-logo="" group-title="Canais Portugal",Fox HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2647.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life HD (PT)" tvg-logo="" group-title="Canais Portugal",Fox Life HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fox Movies (PT)" tvg-logo="" group-title="Canais Portugal",Fox Movies (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2642.ts
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV (PT)" tvg-logo="" group-title="Canais Portugal",Fuel TV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood TV HD (PT)" tvg-logo="" group-title="Canais Portugal",Hollywood TV HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2640.ts
+#EXTINF:-1 tvg-id="" tvg-name="JimJam (PT)" tvg-logo="" group-title="Canais Portugal",JimJam (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2623.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kombat Sports (PT)" tvg-logo="" group-title="Canais Portugal",Kombat Sports (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2681.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Pop (PT)" tvg-logo="" group-title="Canais Portugal",MCM Pop (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2619.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top (PT)" tvg-logo="" group-title="Canais Portugal",MCM Top (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2618.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS Extreme (PT)" tvg-logo="" group-title="Canais Portugal",MCS Extreme (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2617.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS Lifestyle (PT)" tvg-logo="" group-title="Canais Portugal",MCS Lifestyle (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD (PT)" tvg-logo="" group-title="Canais Portugal",Motorvision HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2679.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base (PT)" tvg-logo="" group-title="Canais Portugal",MTV Base (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2615.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Classic (PT)" tvg-logo="" group-title="Canais Portugal",MTV Classic (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2614.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Dance (PT)" tvg-logo="" group-title="Canais Portugal",MTV Dance (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2613.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV Portugal (PT)" tvg-logo="" group-title="Canais Portugal",MTV Portugal (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2612.ts
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Wild HD (PT)" tvg-logo="" group-title="Canais Portugal",NatGeo Wild HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2600.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2604.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic HD (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2603.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic Wild (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2602.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild HD (PT)" tvg-logo="" group-title="Canais Portugal",National Geographic Wild HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick (PT)" tvg-logo="" group-title="Canais Portugal",Nick (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2622.ts
+#EXTINF:-1 tvg-id="" tvg-name="Odisseia TV (PT)" tvg-logo="" group-title="Canais Portugal",Odisseia TV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2599.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panda Biggs (PT)" tvg-logo="" group-title="Canais Portugal",Panda Biggs (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2621.ts
+#EXTINF:-1 tvg-id="" tvg-name="Panda HD (PT)" tvg-logo="" group-title="Canais Portugal",Panda HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2620.ts
+#EXTINF:-1 tvg-id="" tvg-name="Poker Central (PT)" tvg-logo="" group-title="Canais Portugal",Poker Central (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2677.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAI News (IT)" tvg-logo="" group-title="",RAI News (IT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2583.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 (PT)" tvg-logo="" group-title="Canais Portugal",RTP 1 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2710.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",RTP 1 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2709.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 (PT)" tvg-logo="" group-title="Canais Portugal",RTP 2 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2708.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 2 HD (PT)" tvg-logo="" group-title="Canais Portugal",RTP 2 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2707.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 (PT)" tvg-logo="" group-title="Canais Portugal",RTP 3 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2706.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP 3 HD (PT)" tvg-logo="" group-title="Canais Portugal",RTP 3 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2705.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Africa (PT)" tvg-logo="" group-title="Canais Portugal",RTP Africa (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2704.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTP Internacional (PT)" tvg-logo="" group-title="Canais Portugal",RTP Internacional (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2703.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC HD (PT)" tvg-logo="" group-title="Canais Portugal",SIC HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2702.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias (PT)" tvg-logo="" group-title="Canais Portugal",SIC Noticias (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2581.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIC Noticias HD (PT)" tvg-logo="" group-title="Canais Portugal",SIC Noticias HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2580.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 HD (DE)" tvg-logo="" group-title="",Sky Bundesliga 1 HD (DE)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2662.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sport 1 HD (DE)" tvg-logo="" group-title="",SKY Sport 1 HD (DE)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2661.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD (DE)" tvg-logo="" group-title="",Sky Sport 2 HD (DE)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2660.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 (IT)" tvg-logo="" group-title="",SKY TG 24 (IT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2582.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV   (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV   (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2673.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV   HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV   HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2672.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2671.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 1 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2670.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 1 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2669.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 2 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2668.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 2 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2667.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 3 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2666.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 3 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2665.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 4 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2663.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5 HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV 5 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2674.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV HD (PT)" tvg-logo="" group-title="Canais Portugal",Sport TV HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2676.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel (PT)" tvg-logo="" group-title="Canais Portugal",Sundance Channel (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2639.ts
+#EXTINF:-1 tvg-id="" tvg-name="SyFy (PT)" tvg-logo="" group-title="Canais Portugal",SyFy (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2638.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History (PT)" tvg-logo="" group-title="Canais Portugal",The History (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2597.ts
+#EXTINF:-1 tvg-id="" tvg-name="The History HD (PT)" tvg-logo="" group-title="Canais Portugal",The History HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2596.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC (PT)" tvg-logo="" group-title="Canais Portugal",TLC (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2637.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trace Urban TV (PT)" tvg-logo="" group-title="Canais Portugal",Trace Urban TV (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel (PT)" tvg-logo="" group-title="Canais Portugal",Travel Channel (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2598.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Record Portugal (PT)" tvg-logo="" group-title="Canais Portugal",TV Record Portugal (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2658.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Record Portugal HD (PT)" tvg-logo="" group-title="Canais Portugal",TV Record Portugal HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2657.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Series (PT)" tvg-logo="" group-title="Canais Portugal",TV Series (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2636.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV Series HD (PT)" tvg-logo="" group-title="Canais Portugal",TV Series HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2635.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 1 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 1 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2634.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 1 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 1 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2633.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 2 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2632.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 2 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 2 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2631.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 3 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 3 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2630.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 3 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 3 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2629.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 4 (PT)" tvg-logo="" group-title="Canais Portugal",TVC 4 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2628.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC 4 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVC 4 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2627.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 (PT)" tvg-logo="" group-title="Canais Portugal",TVI 24 (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2700.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI 24 HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI 24 HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2699.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficção (PT)" tvg-logo="" group-title="Canais Portugal",TVI Ficção (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2698.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI Ficçao HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI Ficçao HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2697.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI HD (PT)" tvg-logo="" group-title="Canais Portugal",TVI HD (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2701.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic (PT)" tvg-logo="" group-title="Canais Portugal",VH1 Classic (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2610.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Portugal (PT)" tvg-logo="" group-title="Canais Portugal",VH1 Portugal (PT)
+http://149.56.16.58:25461/live/ThiagosRodrigues/1zjCpIAyS8/2609.ts
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Chegada" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/16/10/19/01/57/552532.jpg" group-title="Ficcao cientifica",OnDemand | A Chegada
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Era do Gelo o Big Bang" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQy-eIH4js6V7PHfSOLz4wMFdvJvM3kL6n7M35p1XAI9NTJu3R_" group-title="Animacao",OnDemand | A Era do Gelo o Big Bang
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Garota do trem" tvg-logo="http://br.web.img3.acsta.net/pictures/16/08/16/21/02/177564.jpg" group-title="Suspense",OnDemand | A Garota do trem
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Grande Muralha - LEG" tvg-logo="http://image.tmdb.org/t/p/original/vQmGMhUeQPg2QU4NS2bl7bkI7d2.jpg" group-title="Acao",OnDemand | A Grande Muralha - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2784.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Lei da Noite" tvg-logo="https://i.imgur.com/kyvf229.jpg" group-title="Acao",OnDemand | A Lei da Noite
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Lenda de Tarzan" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcQIrAcciz7nTNzR0Vx9wUEtbHziG5FiBahhwq5xvRsGENChe_Eu" group-title="Acao",OnDemand | A Lenda de Tarzan
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Luz Entre Oceanos" tvg-logo="http://br.web.img3.acsta.net/pictures/16/10/18/23/38/086160.jpg" group-title="Romance",OnDemand | A Luz Entre Oceanos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Ultima Ressaca do Ano." tvg-logo="https://i2.wp.com/www.plugou.com/wp-content/uploads/2016/10/ultima-ressaca-do-ano-cartaz.jpg?resize=882%2C1306" group-title="Comedia",OnDemand | A Ultima Ressaca do Ano.
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2728.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Aliados" tvg-logo="http://cinecinemania.com.br/wp-content/uploads/2016/11/ALL_INTL_DGTL_1_SHT_BRA.jpg" group-title="Acao",OnDemand | Aliados
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Alice Atraves do Espelho" tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/15/22/40/327086.jpg" group-title="Aventura",OnDemand | Alice Atraves do Espelho
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Angry Birds  | O Filme" tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/05/Angry-Birds.jpg" group-title="Animacao",OnDemand | Angry Birds  | O Filme
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Alvin e os Esquilos Na Estrada" tvg-logo="http://www.filmesonlinehd11.cc/wp-content/uploads/2016/03/Alvin-e-os-Esquilos-Na-Estrada.jpg" group-title="Comedia",OnDemand | Alvin e os Esquilos Na Estrada
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Caca Fantasmas" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/13/15/19/283746.jpg" group-title="Comedia",OnDemand | As Caca Fantasmas
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ate Que a Sorte nos Separe 3" tvg-logo="http://br.web.img3.acsta.net/pictures/15/12/01/12/49/214995.jpg" group-title="Comedia",OnDemand | Ate Que a Sorte nos Separe 3
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Assassin's Creed" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/10/assassins-creed-movie-poster-760x1127.jpg" group-title="Acao",OnDemand | Assassin's Creed
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2734.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Tartarugas Ninjas Fora das Sombras" tvg-logo="http://www.videoperola.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/t/a/tartarugas_filme2_fora_sombras_saraiva_dvd_st.jpg" group-title="Aventura",OnDemand | As Tartarugas Ninjas Fora das Sombras
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Animais Fantasticos e Onde Habitam DUB" tvg-logo="http://www.estrelando.com.br/uploads/2016/06/20/animaisfantasticosposter-divulga-o-1466432040.jpg" group-title="Aventura",OnDemand | Animais Fantasticos e Onde Habitam DUB
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2733.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Anjos da Noite - Guerra de Sangue" tvg-logo="http://br.web.img3.acsta.net/pictures/16/09/13/10/01/479417.jpg" group-title="Acao",OnDemand | Anjos da Noite - Guerra de Sangue
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ate o Ultimo Homem" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Ate-O-Ultimo-Homem-Assistir-Online.jpg" group-title="Drama",OnDemand | Ate o Ultimo Homem
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Bruxa de Blair" tvg-logo="https://jovemnerd.com.br/wp-content/uploads/2016/08/POSTERBR_TEASER_BRUXA_DE_BLAIR-760x1111.jpg" group-title="Terror",OnDemand | Bruxa de Blair
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Batman Vs Superman a Origem da Justica" tvg-logo="https://s-media-cache-ak0.pinimg.com/564x/05/98/d6/0598d64ee56d97b28e3ba323135c6423.jpg" group-title="Acao",OnDemand | Batman Vs Superman a Origem da Justica
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Barbie Aventura nas Estrelas" tvg-logo="http://megafilmesonline.net/wp-content/uploads/2016/09/Barbie-Aventura-nas-Estrelas-Dublado.jpg" group-title="Animacao",OnDemand | Barbie Aventura nas Estrelas
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Barbie em um Mundo de VideoGame" tvg-logo="https://iptvwebcsgo.com/images/VOD/Barbie-Em-Um-Mundo-De-Video-Game-iptv.jpg" group-title="Animacao",OnDemand | Barbie em um Mundo de VideoGame
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2756.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | As Aventuras de Robinson Crusoe" tvg-logo="http://br.web.img3.acsta.net/pictures/16/03/24/09/11/213315.jpg" group-title="Animacao",OnDemand | As Aventuras de Robinson Crusoe
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2755.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Batman Sangue Ruim" tvg-logo="https://2.bp.blogspot.com/-s9mkMGkaFM0/VtOYLZeQfOI/AAAAAAAAA9M/JA7oKdwU3ks/s1600/p12462349_p_v8_aa.jpg" group-title="Animacao",OnDemand | Batman Sangue Ruim
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Beleza Oculta" tvg-logo="http://seriesemcena.com.br/wp-content/uploads/2016/10/belezaoculta-1.jpg" group-title="Drama",OnDemand | Beleza Oculta
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2731.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Bob Esponja Um Heroi Fora D agua" tvg-logo="http://br.web.img3.acsta.net/pictures/14/12/22/09/59/355468.jpg" group-title="Animacao",OnDemand | Bob Esponja Um Heroi Fora D agua
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ben-Hur" tvg-logo="http://br.web.img2.acsta.net/c_300_300/pictures/16/03/16/18/35/317868.jpg" group-title="Acao",OnDemand | Ben-Hur
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Animais Fantasticos e Onde Habitam" tvg-logo="http://animagos.com.br/wp-content/uploads/2016/09/posterafeoh-terceiro-1.png" group-title="Aventura",OnDemand | Animais Fantasticos e Onde Habitam
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2732.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | A Serie Divergente Convergente" tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/22/15/04/196967.jpg" group-title="Acao",OnDemand | A Serie Divergente Convergente
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Caes de Guerra" tvg-logo="http://br.web.img2.acsta.net/pictures/16/07/05/15/49/383591.jpg" group-title="Comedia",OnDemand | Caes de Guerra
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cacadores de Emocao Alem do Limite" tvg-logo="https://4.bp.blogspot.com/-mx1KLRqY6YE/Vtdw641RPJI/AAAAAAAAVf8/gfEl9MwCBIM/s1600/Ca%25C3%25A7adores%2Bde%2BEmo%25C3%25A7ao%2B-%2BAlem%2Bdo%2BLimite.jpg" group-title="Acao",OnDemand | Cacadores de Emocao Alem do Limite
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Assassino a Preco Fixo 2" tvg-logo="http://br.web.img2.acsta.net/pictures/16/07/07/18/06/104239.jpg" group-title="Acao",OnDemand | Assassino a Preco Fixo 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 7 - O Retorno de Jedi" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-O-Retorno-de-Jedi-Assistir-Online-iptv.png" group-title="Star Wars",OnDemand | Star Wars 7 - O Retorno de Jedi
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 6 - O Imperio Contra Ataca" tvg-logo="https://iptvwebcsgo.com/images/VOD2/star-wars-o-imperio-contra-ataca-assistir-online-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 6 - O Imperio Contra Ataca
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 8 - O Despertar da Forca" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-O-Despertar-da-Forca-assistir-online-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 8 - O Despertar da Forca
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 1 - A Ameaca Fantasma" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-a-ameaca-fantasma-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 1 - A Ameaca Fantasma
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 4 - Rogue One" tvg-logo="http://www.coruscant.com.br/wp-content/uploads/2016/10/Rogue-One-Theatrical-Poster.jpg" group-title="Star Wars",OnDemand | Star Wars 4 - Rogue One
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 3 - A Vinganca dos Sith" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-a-vinganca-dos-sith-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 3 - A Vinganca dos Sith
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 5 - Uma Nova Esperanca" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Star-Wars-uma-nova-esperanca-assistir-online-iptv.jpg" group-title="Star Wars",OnDemand | Star Wars 5 - Uma Nova Esperanca
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Snoopy e Charlie Brown Peanuts o Filme" tvg-logo="http://br.web.img2.acsta.net/pictures/15/09/04/17/43/597579.jpg" group-title="Animacao",OnDemand | Snoopy e Charlie Brown Peanuts o Filme
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Quando as Luzes se Apagam" tvg-logo="http://www.cinemarden.com.br/wp-content/uploads/2016/08/Quando-as-Luzes-se-Apagam-Poster-Teaser-Online.jpg" group-title="Terror",OnDemand | Quando as Luzes se Apagam
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Quarteto Fantastico" tvg-logo="http://empauta.ufpel.edu.br/wp-content/uploads/2015/08/quarteto2.jpg" group-title="Aventura",OnDemand | Quarteto Fantastico
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Rebeliao" tvg-logo="https://image.tmdb.org/t/p/original/lr46yP6ygDiJUISHk7FEBNKjFkU.jpg" group-title="Acao",OnDemand | Rebeliao
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Resident Evil 6 O Capitulo Final-LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Resident-Evil-6-O-Capitulo-Final-assistir-online-iptv.jpg" group-title="Acao",OnDemand | Resident Evil 6 O Capitulo Final-LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Sing" tvg-logo="http://br.web.img3.acsta.net/pictures/16/08/23/00/17/011755.jpg" group-title="Animacao",OnDemand | Sing
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Regresso do Mal" tvg-logo="http://www.cafecomfilme.com.br/media/k2/items/cache/f35cd86e77728ea2e15a1259a0a61c0c_XL.jpg" group-title="Terror",OnDemand | Regresso do Mal
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Frank e Lola" tvg-logo="https://iptvwebcsgo.com/images/VOD2/frank-e-lola-assistir-online-iptv.jpg" group-title="Drama",OnDemand | Frank e Lola
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Homem Formiga" tvg-logo="http://im.ziffdavisinternational.com/ign_br/screenshot/default/image002_fz5h.jpg" group-title="Marvel",OnDemand | Homem Formiga
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Minions" tvg-logo="http://www.dvdsreleasedates.com/posters/800/M/Minions-2015-movie-poster.jpg" group-title="Animacao",OnDemand | Minions
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Max Steel" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Max-Steel-Assistir-Online-iptv.jpg" group-title="Acao",OnDemand | Max Steel
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Orgulho e Preconceito e Zumbis" tvg-logo="http://br.web.img3.acsta.net/pictures/15/12/15/18/30/467996.jpg" group-title="Comedia",OnDemand | Orgulho e Preconceito e Zumbis
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Regresso" tvg-logo="http://assets.caixabelasartes.com.br/wp-content/uploads/2016/02/O-Regresso-poster.jpg" group-title="Drama",OnDemand | O Regresso
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/899.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Monster Trucks" tvg-logo="https://iptvwebcsgo.com/images/VOD2/monster-trucks-iptv.jpg" group-title="Aventura",OnDemand | Monster Trucks
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Mogli O Menino Lobo" tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/18/20/52/012972.jpg" group-title="Aventura",OnDemand | Mogli O Menino Lobo
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Inferno" tvg-logo="http://pics.filmaffinity.com/inferno-993771440-large.jpg" group-title="Suspense",OnDemand | Inferno
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Hotel Transylvania 2" tvg-logo="http://1.bp.blogspot.com/-Mkyc06bG4jA/VgtDI-pT3wI/AAAAAAAATmQ/75J6NzWLDZY/s1600/Hotel%2BTransilvania%2B2.jpg" group-title="Animacao",OnDemand | Hotel Transylvania 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kubo e as Cordas Mágicas" tvg-logo="https://iptvwebcsgo.com/images/VOD2/kubo-e-as-cordas-mgicas-iptv-vod.jpg" group-title="Animacao",OnDemand | Kubo e as Cordas Mágicas
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2753.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Mad Max Estrada da Furia" tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/Mad-Max-6abril2015-poster.jpg" group-title="Acao",OnDemand | Mad Max Estrada da Furia
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jogos Vorazes A Esperanca O Final" tvg-logo="https://previamente.files.wordpress.com/2015/11/jogos-vorazes-a-esperanc3a7a-o-final-pc3b4ster.jpg" group-title="Aventura",OnDemand | Jogos Vorazes A Esperanca O Final
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Casamento de Verdade" tvg-logo="http://br.web.img3.acsta.net/pictures/15/07/08/09/33/158424.jpg" group-title="Comedia romantica",OnDemand | Casamento de Verdade
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Invocacao do Mal 2" tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/18/20/43/025084.jpg" group-title="Terror",OnDemand | Invocacao do Mal 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jurassic World O Mundo dos Dinossauros" tvg-logo="https://static.omelete.uol.com.br/media/extras/conteudos/Jurassic-World-poster-19Abr2015.jpg" group-title="Aventura",OnDemand | Jurassic World O Mundo dos Dinossauros
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kung Fu Panda Segredos do Pergaminho" tvg-logo="https://4.bp.blogspot.com/-ovb4803tCYA/VvwxVchL2LI/AAAAAAAABDM/jNnHgKXPYjwOSshfTD9OCfoY0HVb5xDIA/s1600/Kung%2BFu%2BPanda%2B-%2BSegredos%2Bdo%2BPergaminho%2B%25282016%2529.jpg" group-title="Animacao",OnDemand | Kung Fu Panda Segredos do Pergaminho
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | La La Land - Cantando Estacoes - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/La-La-Land-Assistitr-Online.jpg" group-title="Romance",OnDemand | La La Land - Cantando Estacoes - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2789.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Kung Fu Panda 3" tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/b6/99/be/b699bea1d7b91bcfa6d68f5998db8426.jpg" group-title="Animacao",OnDemand | Kung Fu Panda 3
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cegonhas" tvg-logo="http://cinespaco.com.br/_img/_fotos_galerias/629.jpg" group-title="Animacao",OnDemand | Cegonhas
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Steve Jobs" tvg-logo="https://www.uphe.com/sites/default/files/styles/scale__319w_/public/2015/12/SteveJobs_PosterArt.jpg?itok=iytWd5Bx" group-title="Drama",OnDemand | Steve Jobs
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Lego DC Comics Super Herois LJ Combate Cosmico" tvg-logo="https://2.bp.blogspot.com/-oVLLDXPbKDk/V7TJPObfo7I/AAAAAAAADFw/L5W64-rTrMs66A-lZ4TrWArcXtEE-U02QCLcB/s1600/Lego-DC-Comics-Super-Heroes-Justice-League-Cosmic-Clash-2016-movie-poster.jpg" group-title="Animacao",OnDemand | Lego DC Comics Super Herois LJ Combate Cosmico
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Independence Day o Ressurgimento" tvg-logo="https://static.omelete.uol.com.br/media/filer_public/3c/71/3c71d9d8-e39f-4ede-997b-492b9bbaba4c/download.jpg" group-title="Ficcao cientifica",OnDemand | Independence Day o Ressurgimento
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Lego Friend Girlz 4 Life" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81%2BEOIBd%2BGL._SL1500_.jpg" group-title="Animacao",OnDemand | Lego Friend Girlz 4 Life
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Liga da Justica vs Jovens Titans" tvg-logo="http://image.tmdb.org/t/p/original/iyjBPHj1xBNGM44Wp7BQqMqnN5y.jpg" group-title="Animacao",OnDemand | Liga da Justica vs Jovens Titans
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Minha Mae e uma Peca" tvg-logo="http://br.web.img3.acsta.net/newsv7/16/11/18/15/07/418240.jpg" group-title="Comedia",OnDemand | Minha Mae e uma Peca
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2739.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Senhor dos Aneis - As Duas Torres" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-senhor-dos-aneis-as-duas-torres-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Senhor dos Aneis - As Duas Torres
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Passageiros" tvg-logo="http://br.web.img3.acsta.net/pictures/16/09/19/21/02/477814.jpg" group-title="Romance",OnDemand | Passageiros
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Wars 2 - O Ataque dos Clones" tvg-logo="https://iptvwebcsgo.com/images/VOD2/star-wars-ataque-dos-clones-iptv.png" group-title="Star Wars",OnDemand | Star Wars 2 - O Ataque dos Clones
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Senhor dos Aneis - O Retorno do Rei" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-senhor-dos-aneis-o-retorno-do-rei-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Senhor dos Aneis - O Retorno do Rei
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Minha Vida de Abobrinha" tvg-logo="http://br.web.img3.acsta.net/pictures/17/01/06/12/11/422346.jpg" group-title="Animacao",OnDemand | Minha Vida de Abobrinha
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Ultimo Cacador de Bruxas" tvg-logo="http://cinema10.com.br/upload/noticias/otultimocestreia.jpg" group-title="Acao",OnDemand | O Ultimo Cacador de Bruxas
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Moana" tvg-logo="http://br.web.img2.acsta.net/newsv7/16/09/12/21/32/391585.jpg" group-title="Animacao",OnDemand | Moana
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2729.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Nerve Um Jogo Sem Regras" tvg-logo="http://www.thefandom.net/wp-content/uploads/2016/07/Nerve_SignedPoster_EmHR-669x1024.jpg" group-title="Aventura",OnDemand | Nerve Um Jogo Sem Regras
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Noite de Amadores - LEG" tvg-logo="http://www.magazine-hd.com/apps/wp/wp-content/uploads/2016/10/noite-de-amadores.jpg" group-title="Comedia",OnDemand | Noite de Amadores - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Nos Limites da Lei - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Nos-Limites-da-Lei-Assistir-Online-IPTV.jpg" group-title="Acao",OnDemand | Nos Limites da Lei - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Hobbit - A Desolacao de Smaug" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-hobbit-a-desolacao-de-smaug-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Hobbit - A Desolacao de Smaug
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Hobbit - A Batalha dos Cinco Exercitos" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-hobbit-a-batalha-dos-cinco-exercitos-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Hobbit - A Batalha dos Cinco Exercitos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Dia do Atentado - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-dia-do-atentado-assistir-online-iptv.jpg" group-title="Drama",OnDemand | O Dia do Atentado - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Bom Dinossauro" tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/15/22/24/429658.jpg" group-title="Animacao",OnDemand | O Bom Dinossauro
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Assassino de Mojave" tvg-logo="https://iptvwebcsgo.com/images/VOD2/O-Assassino-de-Mojave-assistir-online-iptv.jpg" group-title="Suspense",OnDemand | O Assassino de Mojave
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Dragao do Natal" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-dragao-do-natal-assistir-online-iptv.jpg" group-title="Aventura",OnDemand | O Dragao do Natal
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Hobbit - Uma Jornada Inesperada" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-hobbit-uma-jornada-inesperada-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Hobbit - Uma Jornada Inesperada
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Senhor dos Aneis - A Sociedade do Anel" tvg-logo="https://iptvwebcsgo.com/images/VOD2/o-senhor-dos-aneis-a-sociedade-do-anel-assistir-online-iptv.jpg" group-title="Tolkien",OnDemand | O Senhor dos Aneis - A Sociedade do Anel
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Pets a Vida Secreta dos Animais" tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/02/19/28/557955.jpg" group-title="Animacao",OnDemand | Pets a Vida Secreta dos Animais
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ouija - Origem do Mal" tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/16/06/23/18/55/294204.jpg" group-title="Terror",OnDemand | Ouija - Origem do Mal
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Goosebumps Monstros e Arrepios" tvg-logo="http://br.web.img3.acsta.net/pictures/15/10/15/16/04/433352.jpg" group-title="Aventura",OnDemand | Goosebumps Monstros e Arrepios
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Call of Duty Fora de Alcance" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Call-to-Duty-Fora-de-Alcance-iptv.jpg" group-title="Acao",OnDemand | Call of Duty Fora de Alcance
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Star Trek Sem Fronteiras" tvg-logo="http://www.startrekofilme.com.br/images/posters/Star_Trek_Beam_Teaser_1_Sheet.jpg" group-title="Ficcao cientifica",OnDemand | Star Trek Sem Fronteiras
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deadpool" tvg-logo="http://expressocultural.com/wp-content/uploads/2016/03/deadpool-capa.jpg" group-title="Acao",OnDemand | Deadpool
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Diablo" tvg-logo="http://br.web.img2.acsta.net/pictures/15/12/17/13/48/005524.jpg" group-title="Acao",OnDemand | Diablo
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Divertidamente" tvg-logo="http://3.bp.blogspot.com/-XF__MHrSXS0/VgtBtbWX_VI/AAAAAAAATmE/VS0h_nPgnAg/s1600/Divertida%2BMente.jpg" group-title="Animacao",OnDemand | Divertidamente
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Estrelas Alem do Tempo" tvg-logo="http://assets.caixabelasartes.com.br/wp-content/uploads/2017/02/Estrelas-Alem-do-Tempo-Cartaz.jpg" group-title="Drama",OnDemand | Estrelas Alem do Tempo
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deus Nao Esta Morto" tvg-logo="http://br.web.img2.acsta.net/pictures/14/07/09/16/27/398352.jpg" group-title="Drama",OnDemand | Deus Nao Esta Morto
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Desnorteados" tvg-logo="https://2.bp.blogspot.com/-cRqMEYAsVEU/V8_Il9vJXJI/AAAAAAAABbQ/XyREd3llZ8020yR5hTnSr0ApsZYB7FxuQCLcB/s1600/Perdiendo-el-norte.jpg" group-title="Comedia",OnDemand | Desnorteados
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deus Nao Esta Morto 2" tvg-logo="http://topdezfilmes.org/wp-content/uploads/2016/08/Deus-N%C3%A3o-Est%C3%A1-Morto-2-Gods-Not-Dead-2.jpg" group-title="Drama",OnDemand | Deus Nao Esta Morto 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Dois Virgens na América" tvg-logo="https://iptvwebcsgo.com/images/VOD2/dois-virgens-na-america-iptv.jpg" group-title="Comedia",OnDemand | Dois Virgens na América
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Deuses do Egito" tvg-logo="http://br.web.img2.acsta.net/pictures/16/02/14/13/03/358252.jpg" group-title="Aventura",OnDemand | Deuses do Egito
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Fragmentado - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/fragmentado-assistir-online-iptv.jpg" group-title="Terror",OnDemand | Fragmentado - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2772.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Esquadrao Suicida" tvg-logo="http://www.cinemadebuteco.com.br/wp-content/uploads/2016/08/poster-esquadrao-suicida.jpg" group-title="Acao",OnDemand | Esquadrao Suicida
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Procurando Dory" tvg-logo="http://www.kontrolmag.com/wp-content/uploads/2016/06/FINDING_DORY_-_Key_Art.jpg" group-title="Animacao",OnDemand | Procurando Dory
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Como Sobreviver a um Ataque Zumbi" tvg-logo="http://br.web.img2.acsta.net/pictures/15/08/26/16/22/341317.jpg" group-title="Comedia",OnDemand | Como Sobreviver a um Ataque Zumbi
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Conexao Escobar" tvg-logo="http://www.plugou.com/wp-content/uploads/2016/07/conexao-escobar-poster.jpg" group-title="Suspense",OnDemand | Conexao Escobar
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Pixels O Filme" tvg-logo="http://umtigrenocinema.com/wp-content/uploads/2015/07/Pixels_O_Filme.jpg" group-title="Comedia",OnDemand | Pixels O Filme
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cinquenta Tons Mais Escuros - LEG" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Cinquenta-Tons-Mais-Escuros-assistir-online-iptv.jpg" group-title="Romance",OnDemand | Cinquenta Tons Mais Escuros - LEG
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2771.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cinquenta Tons de Cinza" tvg-logo="http://1.bp.blogspot.com/-XA1RNJm6NKY/VOJjTbrtUdI/AAAAAAAAGKI/ahGiVXakGCE/s1600/poster%2Bfilme%2Bcinquenta%2Btons.jpg" group-title="Romance",OnDemand | Cinquenta Tons de Cinza
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cinquenta Tons de Preto | Dublado" tvg-logo="http://br.web.img3.acsta.net/pictures/16/02/22/13/12/507057.jpg" group-title="Comedia",OnDemand | Cinquenta Tons de Preto | Dublado
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Perfeita e a Mae" tvg-logo="https://3.bp.blogspot.com/-owrdyX61fMk/V3tr8ba_e4I/AAAAAAAAEvs/xD54jY7FfEEV2h0Vs4XQEjkdoapHFjtFQCLcB/s1600/Poster_BadMoms_Fingers_BR_64x94cm_v7.jpg.jpeg" group-title="Comedia",OnDemand | Perfeita e a Mae
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Capitao America Guerra Civil" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/02_SPTNK_1Sheet_DomPayoff_Brazil.jpg" group-title="Marvel",OnDemand | Capitao America Guerra Civil
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cidades de Papel" tvg-logo="http://trechosdelivros.com/wp-content/uploads/2015/07/poster-cidades-de-papel.jpg" group-title="Romance",OnDemand | Cidades de Papel
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Jason Bourne 2016" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/21/09/42/573260.jpg" group-title="Acao",OnDemand | Jason Bourne 2016
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Genios do Crime" tvg-logo="http://br.web.img3.acsta.net/pictures/15/08/28/21/58/041768.jpg" group-title="Comedia",OnDemand | Genios do Crime
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Capitao Fantastico" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Capitao-Fantastico-assistir-online-iptv.jpg" group-title="Drama",OnDemand | Capitao Fantastico
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Cafe Society" tvg-logo="https://www.cinematerial.com/media/posters/md/2d/2dtl6yrm.jpg?v=1470044516" group-title="Romance",OnDemand | Cafe Society
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | O Bebe de Bridget Jones" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/28/17/51/061145.jpg" group-title="Romance",OnDemand | O Bebe de Bridget Jones
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Uma Aventura de Baba" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/01/17/08/318326.jpg" group-title="Comedia",OnDemand | Uma Aventura de Baba
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Uma Noite com a Família Blacks" tvg-logo="https://iptvwebcsgo.com/images/VOD/uma-noite-com-a-familia-blacks-iptvwebcsgo.jpg" group-title="Comedia",OnDemand | Uma Noite com a Família Blacks
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Limite Entre Nos" tvg-logo="https://iptvwebcsgo.com/images/VOD2/Um-Limite-Entre-Nos-Assistir-Online.jpg" group-title="Drama",OnDemand | Um Limite Entre Nos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Espiao e Meio" tvg-logo="http://recantoadormecido.com.br/wp-content/uploads/2016/03/Central-Intelligence-Poster-nacional-21Mar%C3%A7o2016.jpg" group-title="Comedia",OnDemand | Um Espiao e Meio
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Tinha Que ser Ele" tvg-logo="https://iptvwebcsgo.com/images/TQSE.jpg" group-title="Comedia",OnDemand | Tinha Que ser Ele
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2740.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Trolls" tvg-logo="http://br.web.img2.acsta.net/pictures/16/06/29/11/56/106134.jpg" group-title="Animacao",OnDemand | Trolls
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Truque De Mestre" tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2013/07/TRUQUE-DE-MESTRE.jpg" group-title="Aventura",OnDemand | Truque De Mestre
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Truque De Mestre 2 O Segundo Ato" tvg-logo="http://1.bp.blogspot.com/-diSJjO2oXII/VzpNDOEMGkI/AAAAAAAAA7E/YtxBIh-ningIIx-UC8WAP8X2dMTuFFuKgCK4B/s1600/157806--truque-de-mestre-o-2-ato-950x0-1.jpg" group-title="Aventura",OnDemand | Truque De Mestre 2 O Segundo Ato
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Um Senhor Estagiario" tvg-logo="http://www.ultrafilmeshd.org/wp-content/uploads/2016/11/oSDNrvnUO1Mg2UAKeVrfqaZcNse.jpg" group-title="Comedia",OnDemand | Um Senhor Estagiario
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ted 2" tvg-logo="https://image.tmdb.org/t/p/original/qH6j7Kij3HHnTflyOQlhv41USxO.jpg" group-title="Comedia",OnDemand | Ted 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Velozes & Furiosos 7 Versão Estendida" tvg-logo="http://3.bp.blogspot.com/-G0Fx-s7va3A/VRvX1oR0guI/AAAAAAAAFvY/7q3t89ak1NI/s1600/Velozes%2Be%2BFuriosos%2B7.jpg" group-title="Acao",OnDemand | Velozes & Furiosos 7 Versão Estendida
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vingadores Era de Ultron" tvg-logo="http://cinemascope.com.br/wp-content/uploads/2015/04/vingadores-era-de-ultron-poster.jpg" group-title="Marvel",OnDemand | Vingadores Era de Ultron
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vizinhos 2" tvg-logo="http://br.web.img2.acsta.net/pictures/16/03/31/17/59/303127.jpg" group-title="Comedia",OnDemand | Vizinhos 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2736.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Zootopia Essa Cidade e o Bicho" tvg-logo="http://mercnews.com.br/wp-content/uploads/2016/02/Dica-de-Cinema_1_Fev.png" group-title="Animacao",OnDemand | Zootopia Essa Cidade e o Bicho
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | X Men Apocalipse" tvg-logo="http://br.web.img3.acsta.net/pictures/16/04/14/11/28/136403.jpg" group-title="Aventura",OnDemand | X Men Apocalipse
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Warcraft o Primeiro Encontro de dois Mundos" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/Warcraft-The-Beginning-Poster-01.jpg" group-title="Aventura",OnDemand | Warcraft o Primeiro Encontro de dois Mundos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Vizinhos Nada Secretos" tvg-logo="http://iptvwebcsgo.com/images/vizinhos-secretos_.jpg" group-title="Comedia",Ondemand | Vizinhos Nada Secretos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | A Era do Gelo a Grande Cacada aos Ovos de Pascoa" tvg-logo="https://1.bp.blogspot.com/-z8hrkdYTqNE/V1D4hI5xIXI/AAAAAAAAAL8/mPD27xZ7AlMVDoxEFhYijWvTGeIVjVQhgCLcB/s1600/ds.jpg" group-title="Animacao",Ondemand | A Era do Gelo a Grande Cacada aos Ovos de Pascoa
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Spectral" tvg-logo="https://i.jeded.com/i/spectral.61144.jpg" group-title="Acao",Ondemand | Spectral
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Sete Homens e um Destino" tvg-logo="http://br.web.img3.acsta.net/pictures/16/06/30/09/11/034067.jpg" group-title="Acao",Ondemand | Sete Homens e um Destino
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | O Lar das Crianças Peculiares" tvg-logo="https://3.bp.blogspot.com/-75IBsNe-cTU/Vu6WGIwQTyI/AAAAAAAAN7Q/ae_Q9hO3eSUjb2F0-HdrqYim94GC3xiqg/s1600/O%2Blar%2Bdas%2Bcrian%25C3%25A7as%2Bpeculiares.jpg" group-title="Aventura",Ondemand | O Lar das Crianças Peculiares
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/1169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | O Contador" tvg-logo="https://image.tmdb.org/t/p/w185/wYqU4XIIe3FUZiquMoWlgtEXp6F.jpg" group-title="Acao",Ondemand | O Contador
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | O Bom Gigante Amigo" tvg-logo="http://www.oestadoce.com.br/wp-content/uploads/2016/08/poltrona-BFG-poster-15mai16.jpg" group-title="Animacao",Ondemand | O Bom Gigante Amigo
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Doutor Estranho" tvg-logo="https://static.omelete.uol.com.br/media/extras/capas/estranhoPoster.jpg" group-title="Marvel",Ondemand | Doutor Estranho
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ondemand | Carrossel 2: O Sumico de Maria Joaquina." tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2016/06/CARROSSEL-2-O-SUMICO-DE-MARIA-JOAQUINA.jpg" group-title="Aventura",Ondemand | Carrossel 2: O Sumico de Maria Joaquina.
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vizinhos" tvg-logo="https://cinelogin.files.wordpress.com/2014/06/vizinhos.jpg" group-title="Comedia",OnDemand | Vizinhos
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2735.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Vai que da Certo 2" tvg-logo="http://www.cafecomfilme.com.br/media/k2/items/cache/aee6b7eabcfbb7f95c4f7ee66e00ef27_XL.jpg" group-title="Comedia",OnDemand | Vai que da Certo 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Ta Dando Onda 2" tvg-logo="https://iptvwebcsgo.com/images/VOD/ta-dando-onda-2-iptv.jpg" group-title="Animacao",OnDemand | Ta Dando Onda 2
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2757.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Horizonte Profundo - Desastre no Golfo" tvg-logo="http://br.web.img3.acsta.net/pictures/16/11/14/16/43/487715.jpg" group-title="Acao",OnDemand | Horizonte Profundo - Desastre no Golfo
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2737.mkv
+#EXTINF:-1 tvg-id="" tvg-name="OnDemand | Guardioes da Galaxia" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdYOoGWNbE2MpvuF-_Og7X0hCvxMU55v8GXI3cnJpaGB6DeIVwgg" group-title="Marvel",OnDemand | Guardioes da Galaxia
+http://149.56.16.58:25461/movie/ThiagosRodrigues/1zjCpIAyS8/2792.mp4
